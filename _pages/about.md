@@ -6,7 +6,7 @@ comments: true
 ---
 
 <div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+<div class="col-md-8 pr-8">
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="assets/images/ZhihaoXu.png" alt="Zhihao Xu" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
