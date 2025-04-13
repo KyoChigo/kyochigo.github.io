@@ -8,13 +8,13 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-I am a first year master's student from the Department of Physics, Graduation School of Science, Tohoku University.
+<p>I am a first year master's student from the Department of Physics, Graduation School of Science, Tohoku University.
 As a member of KamLAND collaboration and OBD work group, my work bridges particle physics and geoscience,
-reflecting a deep interest in interdisciplinary approaches to understanding both the Earth and the fundamental nature of neutrinos.
+reflecting a deep interest in interdisciplinary approaches to understanding both the Earth and the fundamental nature of neutrinos.</p>
 
-I can speak Chinese, Japanese, and English. Feel free to contact me in any of these languages!
-E-mail: xu [at] awa.tohoku.ac.jp
+<p>I can speak Chinese, Japanese, and English. Feel free to contact me in any of these languages!</p>
 
+<p>E-mail: xu [at] awa.tohoku.ac.jp</p>
 
 
 <h4>Research Interests</h4>
