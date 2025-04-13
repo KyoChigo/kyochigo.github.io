@@ -15,12 +15,12 @@ comments: true
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="width: 300px; text-align: center;">
-    <img src="assets/images/OBD.png" alt="Geoneutrinos" style="width: 100%; border-radius: 8px;">
+    <img src="assets/images/OBD.png" alt="Geoneutrinos" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
     <p style="margin-top: 10px;"><b>Geoneutrino Analysis</b></p>
   </div>
 
   <div style="width: 300px; text-align: center;">
-    <img src="assets/images/directional.png" alt="Directional sensitivity of neutrino detectors" style="width: 100%; border-radius: 8px;">
+    <img src="assets/images/directional.png" alt="Directional sensitivity of neutrino detectors" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
     <p style="margin-top: 10px;"><b>Directional Sensitivity</b></p>
   </div>
 </div>
