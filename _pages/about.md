@@ -10,6 +10,15 @@ comments: true
 
 <p>I am a first year master's student from the Department of Physics, Graduation School of Science, Tohoku University. As a member of KamLAND collaboration and OBD work group, my work bridges particle physics and geoscience, reflecting a deep interest in interdisciplinary approaches to understanding both the Earth and the fundamental nature of neutrinos.</p>
 
+
+<h4>Research Interests</h4>
+
+<ul>
+  <li>Geoneutrino analysis</li>
+  <li>Directional sensitivity of neutrino detectors</li>
+</ul>
+
+
 <h4>Academic Background</h4>
 
 <ul>
@@ -24,6 +33,7 @@ comments: true
   <li>April 2024 – Present: KamLAND (Kamioka Liquid Scintillator Anti-Neutrino Detector)</li>
   <li>October 2024 – Present: OBD (Ocean Bottom Detector)</li>
 </ul>
+
 
 
 <h4>Awards</h4>
