@@ -31,7 +31,7 @@ reflecting a deep interest in interdisciplinary approaches to understanding both
 
 <p>Since I can speak Chinese, Japanese, and English, please feel free to contact me in any of these languages!</p>
 
-<p>E-mail: xu [at] awa.tohoku.ac.jp</p>
+<p><b>E-mail: </b>xu [at] awa.tohoku.ac.jp</p>
 
 
 <h4>Research Interests</h4>
