@@ -61,9 +61,9 @@ reflecting a deep interest in interdisciplinary approaches to understanding both
 <h4>Awards</h4>
 
 <ul>
-  <li>September 2018: Special Contribution Award for Seismology, Chinese Wikipedia</li>
-  <li>September 2023: Incentive Award for Computer Science x Seismology, MEXT 2nd Seismic and Geodetic Data Utilization Idea Contest</li>
-  <li>March 2024: Incentive Award of Aoba Society for the Promotion of Science, Tohoku University</li>
+  <li>September 2018: <a target="_blank" href="https://zh.wikipedia.org/wiki/Category:%E6%8B%93%E8%8D%92%E7%89%B9%E5%88%A5%E8%B2%A2%E7%8D%BB">Special Contribution Award for Seismology</a>, Chinese Wikipedia</li>
+  <li>September 2023: <a target="_blank" href="https://www.jishin.go.jp/resource/column/column_23aut_p08/">Incentive Award for Computer Science x Seismology</a>, MEXT 2nd Seismic and Geodetic Data Utilization Idea Contest</li>
+  <li>March 2024: <a target="_blank" href="https://www.sci.tohoku.ac.jp/news/20240327-13136.html">Incentive Award of Aoba Society for the Promotion of Science</a>, Tohoku University</li>
 </ul>
 
 
