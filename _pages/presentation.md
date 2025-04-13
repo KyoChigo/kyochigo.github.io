@@ -28,9 +28,9 @@ comments: true
 
 <ol>
   <li>
-    <span>Zhihao Xu. </span>
+    <span>Zhihao Xu. </span><br>
     <span><b>Geoneutrino Observations from the Ocean Floor: The Role of Directional Sensitivity. </b></span><br>
-    <span>KamLAND Collaboration Meeting 2025 Spring, Zao, Miyagi, Japan. (March 2025) </span><br>
+    <span>KamLAND Collaboration Meeting 2025 Spring, Zao, Miyagi, Japan. (March 2025) </span>
   </li>
 </ol>
 
