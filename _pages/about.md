@@ -19,7 +19,7 @@ comments: true
           Research Center for Neutrino Science, Tohoku University
         </a>
       </li>
-      <li><strong>Place of birth: </strong>Beijing, China</li>
+      <li><strong>Place of Birth: </strong>Beijing, China</li>
     </ul>
   </div>
 </div>
