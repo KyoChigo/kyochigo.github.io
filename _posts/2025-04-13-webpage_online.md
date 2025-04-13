@@ -10,4 +10,6 @@ I’m pleased to announce that my academic personal website is now up and runnin
 The page includes an overview of my research, recent presentations, and useful resources related to neutrino science.
 I hope it provides a helpful introduction to my work!
 
+Meanwhile, [my Chinese blog](https://kyochigo.com/) will continue to be updated — you're welcome to follow it!
+
 Feel free to take a look — and don’t hesitate to get in touch with me anytime!
