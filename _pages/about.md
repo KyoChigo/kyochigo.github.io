@@ -21,7 +21,7 @@ comments: true
 
   <div style="width: 300px; text-align: center;">
     <img src="assets/images/directional.png" alt="Directional sensitivity of neutrino detectors" style="width: 100%; border-radius: 8px;">
-    <p style="margin-top: 10px;"><b>Directional Sensitivity of Neutrino Detectors</b></p>
+    <p style="margin-top: 10px;"><b>Directional Sensitivity</b></p>
   </div>
 </div>
 
