@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About Me
 permalink: /about
 comments: true
 ---
@@ -8,16 +8,25 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>I am a first year master's student from the Department of Physics, Graduation School of Science, Tohoku University. As a member of KamLAND collaboration and OBD work group, my work bridges particle physics and geoscience, reflecting a deep interest in interdisciplinary approaches to understanding both the Earth and the fundamental nature of neutrinos.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<h4>Academic Background</h4>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<ul>
+  <li>April 2021 – March 2025: B.Sc. in Physics, Faculty of Science, Tohoku University</li>
+  <li>April 2025 – Present: M.Sc. in Physics, Graduate School of Science, Tohoku University</li>
+</ul>
 
-<h4>Questions or bug reports?</h4>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<h4>Awards</h4>
+
+<ul>
+  <li>September 2018: Special Contribution Award for Seismology, Chinese Wikipedia</li>
+  <li>September 2023: Incentive Award for Computer Science x Seismology, MEXT 2nd Seismic and Geodetic Data Utilization Idea Contest</li>
+  <li>March 2024: Incentive Award of Aoba Society for the Promotion of Science, Tohoku University</li>
+</ul>
+
+
 
 </div>
 
