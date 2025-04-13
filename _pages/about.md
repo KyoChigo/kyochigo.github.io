@@ -16,12 +16,14 @@ comments: true
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="width: 300px; text-align: center;">
     <img src="assets/images/OBD.png" alt="Geoneutrinos" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #ccc;">
-    <p style="margin-top: 10px;"><b>Geoneutrino Analysis</b></p>
+    <p style="margin-top: 10px;"><b>Ocean Bottom Detector</b><br>
+      Developing a next-generation detector focused on geoneutrino observation to better understand Earth's interior.</p>
   </div>
 
   <div style="width: 300px; text-align: center;">
     <img src="assets/images/directional.png" alt="Directional sensitivity of neutrino detectors" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #ccc;">
-    <p style="margin-top: 10px;"><b>Directional Sensitivity</b></p>
+    <p style="margin-top: 10px;"><b>Directional Sensitivity</b><br>
+      Gaining deeper insight into Earth's interior by extracting information on neutrino incident angles.</p>
   </div>
 </div>
 
