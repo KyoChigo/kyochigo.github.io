@@ -11,15 +11,15 @@ comments: true
 <h4>Useful Links</h4>
 
 <ul>
-  <li>[Recearch Center for Neutrino Science, Tohoku University](https://www.awa.tohoku.ac.jp/rcns/INDEX_TOP_eng.html)</li>
-  <li>[KamLAND experiment](https://www.awa.tohoku.ac.jp/en/kamland/)</li>
+  <li><a href="https://www.awa.tohoku.ac.jp/rcns/INDEX_TOP_eng.html" target="_blank">Recearch Center for Neutrino Science, Tohoku University</a></li>
+  <li><a href="https://www.awa.tohoku.ac.jp/en/kamland/" target="_blank">KamLAND experiment</a></li>
 </ul>
 
 
 <h4>Useful Links</h4>
 
 <ul>
-  <li>[Geoneutrino.org](https://geoneutrinos.org/) - An interactive earth model allows quick visualization of geoneutino fluxes</li>
+  <li><a href="https://geoneutrinos.org/" target="_blank">Geoneutrino.org</a> - An interactive earth model allows quick visualization of geoneutino fluxes</li>
 </ul>
 
 
