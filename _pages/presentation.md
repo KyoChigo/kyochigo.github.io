@@ -46,6 +46,7 @@ comments: true
     I am an international student in Japan, conducting studies and research in experimental neutrino physics. My goal is to deepen our understanding of the Earth's interior and the universe by utilizing neutrinos.
   </p>
 <a target="_blank" href="https://kyochigo.github.io/about" class="btn btn-danger">About Me</a>
+<a target="_blank" href="https://kyochigo.com/" class="btn btn-warning">My Blog (in Chinese)</a>
 
 </div>
 </div>
