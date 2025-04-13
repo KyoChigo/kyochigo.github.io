@@ -18,6 +18,14 @@ comments: true
 </ul>
 
 
+<h4>Experiments</h4>
+
+<ul>
+  <li>April 2024 – Present: KamLAND (Kamioka Liquid Scintillator Anti-Neutrino Detector)</li>
+  <li>October 2024 – Present: OBD (Ocean Bottom Detector)</li>
+</ul>
+
+
 <h4>Awards</h4>
 
 <ul>
