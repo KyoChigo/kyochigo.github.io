@@ -15,7 +15,7 @@ comments: true
     <ul>
       <li><strong>Nickname: </strong>Yuru-san (ゆるさん) (yuru-san)</li>
       <li><strong>Affiliation: </strong>Department of Physics, Graduation School of Science, Tohoku University<br>
-        <a href="https://www.awa.tohoku.ac.jp/rcns/INDEX_TOP.html" target="_blank">
+        <a href="https://www.awa.tohoku.ac.jp/rcns/INDEX_TOP_eng.html" target="_blank">
           Research Center for Neutrino Science, Tohoku University
         </a>
       </li>
