@@ -8,6 +8,23 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="assets/images/ZhihaoXu.png" alt="Zhihao Xu" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+  <div>
+    <p><strong>Zhihao Xu (許智豪)/strong></p>
+    <ul>
+      <li><strong>Nickname: </strong>Yuru-san (ゆるさん) (yuru-san)</li>
+      <li><strong>Affiliation: </strong>Department of Physics, Graduation School of Science, Tohoku University<br>
+        <a href="https://www.awa.tohoku.ac.jp/rcns/INDEX_TOP.html" target="_blank">
+          Research Center for Neutrino Science, Tohoku University
+        </a>
+      </li>
+      <li><strong>Place of birth: </strong>Beijing, China</li>
+    </ul>
+  </div>
+</div>
+
+
 <p>I am a first year master's student from the Department of Physics, Graduation School of Science, Tohoku University.
 As a member of KamLAND collaboration and OBD work group, my work bridges particle physics and geoscience,
 reflecting a deep interest in interdisciplinary approaches to understanding both the Earth and the fundamental nature of neutrinos.</p>
