@@ -11,15 +11,27 @@ comments: true
 <h4>Oral Presentations</h4>
 
 <ol>
-  <li>許智豪, 井上邦雄, 渡辺寛子, 酒井汰一, 荒木拓登, 大野建, Simran Chauhan, 小野隆伸, William McDonough, 上木賢太, 阿部なつ江, 櫻井紀旭, 許正憲, 荒木英一郎, 笠谷貴史, 吉田弘. マントル地球ニュートリノ直接観測に向けた海洋底反ニュートリノ検出器の研究開発 13：到来方向感度を考慮した地球ニュートリノフラックス評価. 日本物理学会2025年春季大会. オンライン. (2025年3月)</li>
-  <li>Zhihao Xu, Kunio Inoue, Hiroko Watanabe, Taichi Sakai, Takumi Araki, Takeru Ohno, Simran Chauhan, Takanobu Ono, William McDonough. Theoretical Insights into Earth's Heat from Geoneutrino Detection by Ocean Bottom Detector: Role of Angular Resolution. Japan Geoscience Union Meeting 2025, Makuhari, Chiba, Japan. (May 2025, in preparing)</li>
+  <li>
+    <p>許智豪, 井上邦雄, 渡辺寛子, 酒井汰一, 荒木拓登, 大野建, Simran Chauhan, 小野隆伸, William McDonough, 上木賢太, 阿部なつ江, 櫻井紀旭, 許正憲, 荒木英一郎, 笠谷貴史, 吉田弘. </p>
+    <p>マントル地球ニュートリノ直接観測に向けた海洋底反ニュートリノ検出器の研究開発 13：到来方向感度を考慮した地球ニュートリノフラックス評価. </p>
+    <p>日本物理学会2025年春季大会. オンライン. (2025年3月)</p>
+  </li>
+  <li>
+    <p>Zhihao Xu, Kunio Inoue, Hiroko Watanabe, Taichi Sakai, Takumi Araki, Takeru Ohno, Simran Chauhan, Takanobu Ono, William McDonough. </p>
+    <p>Theoretical Insights into Earth's Heat from Geoneutrino Detection by Ocean Bottom Detector: Role of Angular Resolution. </p>
+    <p>Japan Geoscience Union Meeting 2025, Makuhari, Chiba, Japan. (May 2025, in preparing) </p>
+  </li>
 </ol>
 
 
 <h4>Poster Presentations</h4>
 
 <ol>
-  <li>Zhihao Xu, Geoneutrino Observations from the Ocean Floor: The Role of Directional Sensitivity, KamLAND Collaboration Meeting 2025 Spring, Zao, Miyagi, Japan. (March 2025)</li>
+  <li>
+    <p>Zhihao Xu. </p>
+    <p>Geoneutrino Observations from the Ocean Floor: The Role of Directional Sensitivity. </p>
+    <p>KamLAND Collaboration Meeting 2025 Spring, Zao, Miyagi, Japan. (March 2025) </p>
+  </li>
 </ol>
 
 
