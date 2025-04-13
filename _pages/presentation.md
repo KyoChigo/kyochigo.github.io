@@ -41,10 +41,9 @@ comments: true
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<img src="assets/images/ZhihaoXu.png" alt="Zhihao Xu" style="width: 150px; border-radius: 50%;">
-  <p style="margin-top: 10px; font-size: 14px; color: #333;">
-    I am an international student in Japan, conducting studies and research in experimental neutrino physics. My goal is to deepen our understanding of the Earth's interior and the universe by utilizing neutrinos.
-  </p>
+<img src="assets/images/ZhihaoXu.png" alt="Zhihao Xu" style="width: 150px; border-radius: 50%; margin: 0 auto;">
+  <p>I am an international student in Japan, conducting studies and research in experimental neutrino physics.
+    My goal is to deepen our understanding of the Earth's interior and the universe by utilizing neutrinos.</p>
 <a target="_blank" href="https://kyochigo.github.io/about" class="btn btn-danger">About Me</a>
 <a target="_blank" href="https://kyochigo.com/" class="btn btn-warning">My Blog (in Chinese)</a>
 
