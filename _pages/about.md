@@ -29,7 +29,7 @@ comments: true
   <div style="width: 300px; text-align: center;">
     <img src="assets/images/zenith_dist_wLLSVP.png" alt="Gaoneutrino Analysis" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #ccc;">
     <p style="margin-top: 10px;"><b>Geoneutrino Analysis</b><br>
-      Exploring the Earth's interior by performing precise geoneutrino analysis.</p>
+      Exploring the Earth's interior structures by performing precise geoneutrino analysis.</p>
   </div>
 </div>
 
