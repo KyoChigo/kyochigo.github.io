@@ -13,10 +13,18 @@ comments: true
 
 <h4>Research Interests</h4>
 
-<ul>
-  <li>Geoneutrino analysis</li>
-  <li>Directional sensitivity of neutrino detectors</li>
-</ul>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="width: 300px; text-align: center;">
+    <img src="assets/images/OBD.png" alt="Geoneutrinos" style="width: 100%; border-radius: 8px;">
+    <p style="margin-top: 10px;"><b>Geoneutrino Analysis</b></p>
+  </div>
+
+  <div style="width: 300px; text-align: center;">
+    <img src="assets/images/directional.png" alt="Directional sensitivity" style="width: 100%; border-radius: 8px;">
+    <p style="margin-top: 10px;"><b>Directional Sensitivity</b></p>
+  </div>
+</div>
+
 
 
 <h4>Academic Background</h4>
