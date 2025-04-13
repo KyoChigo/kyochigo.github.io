@@ -4,8 +4,6 @@ title:  "My academic personal webpage is now live!"
 author: zhihaoxu
 categories: [ ]
 image: assets/images/banner202411.png
-featured: true
-hidden: true
 ---
 
 I’m pleased to announce that my academic personal website is now up and running!
