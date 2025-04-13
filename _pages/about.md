@@ -11,7 +11,7 @@ comments: true
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="assets/images/ZhihaoXu.png" alt="Zhihao Xu" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
   <div>
-    <p><strong>Zhihao Xu (許智豪)/strong></p>
+    <p><strong>Zhihao Xu (許智豪)</strong></p>
     <ul>
       <li><strong>Nickname: </strong>Yuru-san (ゆるさん) (yuru-san)</li>
       <li><strong>Affiliation: </strong>Department of Physics, Graduation School of Science, Tohoku University<br>
