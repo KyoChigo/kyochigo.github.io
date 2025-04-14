@@ -37,19 +37,19 @@ reflecting a deep interest in interdisciplinary approaches to understanding both
 <h4>Research Interests</h4>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="width: 300px; text-align: center;">
+  <div style="width: 290px; text-align: center;">
     <img src="assets/images/OBD.png" alt="Geoneutrinos" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #ccc;">
     <p style="margin-top: 10px;"><b>Ocean Bottom Detector</b><br>
       Developing a detector focused on geoneutrino observation to better understand Earth's interior.</p>
   </div>
 
-  <div style="width: 300px; text-align: center;">
+  <div style="width: 290px; text-align: center;">
     <img src="assets/images/directional.png" alt="Directional sensitivity of neutrino detectors" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #ccc;">
     <p style="margin-top: 10px;"><b>Directional Sensitivity</b><br>
       Gaining deeper insight into Earth's interior by extracting information on neutrino incident angles.</p>
   </div>
 
-  <div style="width: 300px; text-align: center;">
+  <div style="width: 290px; text-align: center;">
     <img src="assets/images/zenith_dist_wLLSVP.png" alt="Gaoneutrino Analysis" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #ccc;">
     <p style="margin-top: 10px;"><b>Geoneutrino Analysis</b><br>
       Exploring the Earth's interior structures by performing precise geoneutrino analysis.</p>
