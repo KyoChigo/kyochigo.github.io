@@ -13,7 +13,7 @@ comments: true
 <ol>
   <li>
     <span><u>Zhihao Xu</u>, for OBD Working Group. </span><br>
-    <span><b>Geoneutrino Observations from the Ocean Floor: The Role of Directional Sensitivity. </b></span><br>
+    <span><b>Geoneutrino observations from the ocean floor: the role of directional sensitivity. </b></span><br>
     <span>KamLAND Collaboration Meeting 2025 Spring. Zao, Miyagi, Japan. (March 2025, Poster) </span>
   </li>
   <li>
