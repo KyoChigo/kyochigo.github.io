@@ -14,7 +14,7 @@ comments: true
     <p><strong>Zhihao Xu (許智豪)</strong></p>
     <ul>
       <li><strong>Nickname: </strong>Yuru-san (ゆるさん)</li>
-      <li><strong>Affiliation: </strong>Department of Physics, Graduation School of Science, Tohoku University<br>
+      <li><strong>Affiliation: </strong>Department of Physics, Graduation School of Science, Tohoku University (東北大学)<br>
         <a href="https://www.awa.tohoku.ac.jp/rcns/INDEX_TOP_eng.html" target="_blank">
           Research Center for Neutrino Science, Tohoku University
         </a>
@@ -61,8 +61,8 @@ reflecting a deep interest in interdisciplinary approaches to understanding both
 <h4>Academic Background</h4>
 
 <ul>
-  <li>April 2021 – March 2025: B.Sc. in Physics, Faculty of Science, Tohoku University</li>
-  <li>April 2025 – Present: M.Sc. in Physics, Graduate School of Science, Tohoku University</li>
+  <li>April 2021 – March 2025: B.Sc. in Physics, Faculty of Science, Tohoku University (東北大学)</li>
+  <li>April 2025 – Present: M.Sc. in Physics, Graduate School of Science, Tohoku University (東北大学)</li>
 </ul>
 
 
