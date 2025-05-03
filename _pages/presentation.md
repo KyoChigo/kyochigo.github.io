@@ -18,7 +18,7 @@ comments: true
   </li>
   <li>
     <span><u>Zhihao Xu</u>, Kunio Inoue, Hiroko Watanabe, Taichi Sakai, Takumi Araki, Takeru Ohno, Simran Chauhan, Takanobu Ono, William F McDonough. </span><br>
-    <span><b>Theoretical Insights into Earth's Heat from Geoneutrino Detection by Ocean Bottom Detector: Role of Angular Resolution. </b></span><br>
+    <span><b>Theoretical insights into Earth's heat from geoneutrino detection by Ocean Bottom Detector: role of angular resolution. </b></span><br>
     <span><a href="https://confit.atlas.jp/guide/event/jpgu2025/subject/SIT21-05/detail" target="_blank">Japan Geoscience Union Meeting 2025</a>. Makuhari, Chiba, Japan. (May 2025, in preparing) </span>
   </li>
   <li>
