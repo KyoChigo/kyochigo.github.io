@@ -20,6 +20,7 @@ comments: true
         </a>
       </li>
       <li><strong>Place of Birth: </strong>Beijing, China</li>
+      <li><strong>Hometown: </strong>Yanji, Jilin, China</li>
     </ul>
   </div>
 </div>
