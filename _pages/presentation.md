@@ -4,6 +4,11 @@ title: Presentations
 permalink: /presentation
 comments: true
 ---
+<style>
+  li {
+    margin-bottom: 16px;
+  }
+</style>
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
