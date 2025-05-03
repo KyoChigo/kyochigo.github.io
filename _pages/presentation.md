@@ -21,6 +21,11 @@ comments: true
     <span><b>Theoretical Insights into Earth's Heat from Geoneutrino Detection by Ocean Bottom Detector: Role of Angular Resolution. </b></span><br>
     <span><a href="https://confit.atlas.jp/guide/event/jpgu2025/subject/SIT21-05/detail" target="_blank">Japan Geoscience Union Meeting 2025</a>, Makuhari, Chiba, Japan. (May 2025, in preparing) </span>
   </li>
+  <li>
+    <span><u>Zhihao Xu</u>, Kunio Inoue, Hiroko Watanabe, Taichi Sakai, Takumi Araki, Takeru Ohno, Simran Chauhan, Takanobu Ono, William F. McDonough, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, John G. Learned, Viacheslav A. Li, Jeffrey Yepez. </span><br>
+    <span><b>Towards imaging Earth’s large-scale structures by directional geoneutrino detection with Ocean Bottom Detector. </b></span><br>
+    <span><a href="[https://confit.atlas.jp/guide/event/jpgu2025/subject/SIT21-05/detail](https://hep.tsinghua.edu.cn/taup/)" target="_blank">XIX International Conference on Topics in Astroparticle and Underground Physics (TAUP2025)</a>, Xichang, Sichuan, China. (August 2025, in preparing) </span>
+  </li>
 </ol>
 
 
