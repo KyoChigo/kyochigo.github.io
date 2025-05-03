@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<h5>Academic Year 2024 (April 2024-March 2025, B4)</h5>
+<h5>Academic Year 2024 (April 2024–March 2025, B4)</h5>
 
 <ol>
   <li>
@@ -23,7 +23,7 @@ comments: true
   </li>
 </ol>
 
-<h5>Academic Year 2025 (April 2025-March 2026, M1)</h5>
+<h5>Academic Year 2025 (April 2025–March 2026, M1)</h5>
 <ol start="3">
   <li>
     <span><u>Zhihao Xu</u>, Kunio Inoue, Hiroko Watanabe, Taichi Sakai, Takumi Araki, Takeru Ohno, Simran Chauhan, Takanobu Ono, William F McDonough. </span><br>
