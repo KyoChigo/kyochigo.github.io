@@ -24,7 +24,7 @@ comments: true
   <li>
     <span><u>Zhihao Xu</u>, Kunio Inoue, Hiroko Watanabe, Taichi Sakai, Takumi Araki, Takeru Ohno, Simran Chauhan, Takanobu Ono, William F. McDonough, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, John G. Learned, Viacheslav A. Li, Jeffrey Yepez. </span><br>
     <span><b>Towards imaging Earth’s large-scale structures by directional geoneutrino detection with Ocean Bottom Detector. </b></span><br>
-    <span><a href="[https://confit.atlas.jp/guide/event/jpgu2025/subject/SIT21-05/detail](https://hep.tsinghua.edu.cn/taup/)" target="_blank">XIX International Conference on Topics in Astroparticle and Underground Physics (TAUP2025)</a>, Xichang, Sichuan, China. (August 2025, in preparing) </span>
+    <span><a href="https://hep.tsinghua.edu.cn/taup/" target="_blank">XIX International Conference on Topics in Astroparticle and Underground Physics (TAUP2025)</a>, Xichang, Sichuan, China. (August 2025, in preparing) </span>
   </li>
 </ol>
 
