@@ -14,7 +14,7 @@ comments: true
     <p><strong>Zhihao Xu (許智豪)</strong></p>
     <ul>
       <li><strong>Nickname: </strong>Yuru-san (ゆるさん)</li>
-      <li><strong>Affiliation: </strong>Department of Physics, Graduation School of Science, Tohoku University (東北大学)<br>
+      <li><strong>Affiliation: </strong>Department of Physics, Graduation School of Science, Tohoku University<br>
         <a href="https://www.awa.tohoku.ac.jp/rcns/INDEX_TOP_eng.html" target="_blank">
           Research Center for Neutrino Science, Tohoku University
         </a>
