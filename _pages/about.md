@@ -30,7 +30,7 @@ comments: true
 As a member of the KamLAND collaboration and the OBD Working Group, my work bridges particle physics and geoscience,
 reflecting a deep interest in interdisciplinary approaches to understanding both the Earth and the fundamental nature of neutrinos.</p>
 
-<p>Since I can speak Chinese, Japanese, and English, please feel free to contact me in any of these languages!</p>
+<p>Since I can speak Chinese (中文), Japanese (日本語), and English, please feel free to contact me in any of these languages!</p>
 
 <p><b>E-mail: </b>xu [at] awa.tohoku.ac.jp</p>
 
