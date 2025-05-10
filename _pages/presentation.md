@@ -31,7 +31,7 @@ comments: true
 <h5>AY 2025 (April 2025 – March 2026, M1)</h5>
 <ol start="3">
   <li>
-    <span><u>Zhihao Xu</u>, Kunio Inoue, Hiroko Watanabe, Taichi Sakai, Takumi Araki, Takeru Ohno, Simran Chauhan, Takanobu Ono, William F McDonough. </span><br>
+    <span><u>Zhihao Xu</u>, Kunio Inoue, Hiroko Watanabe, Taichi Sakai, Takumi Araki, Takeru Ohno, Simran Chauhan, Takanobu Ono, William F. McDonough. </span><br>
     <span><b>Theoretical insights into Earth's heat from geoneutrino detection by Ocean Bottom Detector: role of angular resolution. </b></span><br>
     <span><a href="https://confit.atlas.jp/guide/event/jpgu2025/subject/SIT21-05/detail" target="_blank">Japan Geoscience Union Meeting 2025</a>. Makuhari, Chiba, Japan. (May 2025, Oral, in Preparing) </span>
   </li>
