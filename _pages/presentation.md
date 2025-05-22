@@ -19,7 +19,7 @@ comments: true
   <li>
     <span><u>Zhihao Xu</u>, for OBD Working Group. </span><br>
     <span><b>Geoneutrino observations from the ocean floor: the role of directional sensitivity. </b></span><br>
-    <span>KamLAND Collaboration Meeting 2025 Spring. Zao, Miyagi, Japan. (March 2025, Poster) </span>
+    <span>KamLAND Collaboration Meeting 2025 Spring. Zao, Japan. (March 2025, Poster) </span>
   </li>
   <li>
     <span><u>許智豪</u>, 井上邦雄, 渡辺寛子, 酒井汰一, 荒木拓登, 大野建, Simran Chauhan, 小野隆伸, William McDonough, 上木賢太, 阿部なつ江, 櫻井紀旭, 許正憲, 荒木英一郎, 笠谷貴史, 吉田弘. </span><br>
@@ -33,12 +33,12 @@ comments: true
   <li>
     <span><u>Zhihao Xu</u>, Kunio Inoue, Hiroko Watanabe, Taichi Sakai, Takumi Araki, Takeru Ohno, Simran Chauhan, Takanobu Ono, William F. McDonough. </span><br>
     <span><b>Theoretical insights into Earth's heat from geoneutrino detection by Ocean Bottom Detector: role of angular resolution. </b></span><br>
-    <span><a href="https://confit.atlas.jp/guide/event/jpgu2025/subject/SIT21-05/detail" target="_blank">Japan Geoscience Union Meeting 2025</a>. Makuhari, Chiba, Japan. (May 2025, Oral, in Preparing) </span>
+    <span><a href="https://confit.atlas.jp/guide/event/jpgu2025/subject/SIT21-05/detail" target="_blank">Japan Geoscience Union Meeting 2025</a>. Chiba, Japan. (May 2025, Oral, in Preparing) </span>
   </li>
   <li>
     <span><u>Zhihao Xu</u>, Kunio Inoue, Hiroko Watanabe, Taichi Sakai, Takumi Araki, Takeru Ohno, Simran Chauhan, Takanobu Ono, William F. McDonough, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, John G. Learned, Viacheslav A. Li, Jeffrey Yepez. </span><br>
     <span><b>Towards imaging Earth’s large-scale structures by directional geoneutrino detection with Ocean Bottom Detector. </b></span><br>
-    <span><a href="https://hep.tsinghua.edu.cn/taup/" target="_blank">XIX International Conference on Topics in Astroparticle and Underground Physics (TAUP2025)</a>. Xichang, Sichuan, China. (August 2025, Oral, in Preparing) </span>
+    <span><a href="https://hep.tsinghua.edu.cn/taup/" target="_blank">XIX International Conference on Topics in Astroparticle and Underground Physics (TAUP2025)</a>. Xichang, China. (August 2025, Oral, in Preparing) </span>
   </li>
 </ol>
 
