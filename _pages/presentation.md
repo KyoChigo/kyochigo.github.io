@@ -19,7 +19,7 @@ comments: true
   <li>
     <span><u>Zhihao Xu</u>, for OBD Working Group. </span><br>
     <span><b>Geoneutrino observations from the ocean floor: the role of directional sensitivity. </b></span><br>
-    <span>KamLAND Collaboration Meeting 2025 Spring. Zao, Japan. (March 2025, Poster) *(internal meeting)* </span>
+    <span>KamLAND Collaboration Meeting 2025 Spring. Zao, Japan. (March 2025, Poster, *Internal meeting*) </span>
   </li>
   <li>
     <span><u>許智豪</u>, 井上邦雄, 渡辺寛子, 酒井汰一, 荒木拓登, 大野建, Simran Chauhan, 小野隆伸, William McDonough, 上木賢太, 阿部なつ江, 櫻井紀旭, 許正憲, 荒木英一郎, 笠谷貴史, 吉田弘. </span><br>
