@@ -40,6 +40,11 @@ comments: true
     <span><b>Towards imaging Earth’s large-scale structures by directional geoneutrino detection with Ocean Bottom Detector. </b></span><br>
     <span><a href="https://hep.tsinghua.edu.cn/taup/" target="_blank">XIX International Conference on Topics in Astroparticle and Underground Physics (TAUP 2025)</a>. Xichang, China. (August 2025, oral, in preparing) </span>
   </li>
+  <li style="color: #bbbbbb;">
+    <span><u>許智豪</u>, 荒木拓登, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, 井上邦雄, John G. Learned, Viacheslav A. Li, William F. McDonough, 大野建, 小野隆伸, 酒井汰一, Jackson Seligman, Nathan Sibert, David Vartanyan, 渡辺寛子, Jeffrey Yepez.</span><br>
+    <span><b>マントル地球ニュートリノ直接観測に向けた海洋底反ニュートリノ検出器の研究開発 15：方向有感観測に基づいた地球大規模構造の識別可能性評価. </b></span><br>
+    <span><a href="https://www.jps.or.jp/activities/meetings/annual/annual-index.php" target="_blank">日本物理学会2025年春季大会</a>. 広島県東広島市. (2025年9月, 口頭, 準備中) </span>
+  </li>
 </ol>
 
 
