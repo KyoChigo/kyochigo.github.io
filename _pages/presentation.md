@@ -8,6 +8,42 @@ comments: true
   li {
     margin-bottom: 16px;
   }
+
+  .toggle-authors {
+    display: none;
+  }
+
+  .author-label {
+    color: #8888ff;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+
+  .coauthor-list {
+    display: none;
+  }
+
+  .toggle-authors:checked + .author-label + .coauthor-list {
+    display: inline;
+  }
+
+  .toggle-authors:checked + .author-label .closed {
+    display: none;
+  }
+
+  .toggle-authors:checked + .author-label .open {
+    display: inline;
+  }
+
+  .closed {
+    display: inline;
+  }
+
+  .open {
+    display: none;
+  }
+</style>
+  
 </style>
 
 <div class="row justify-content-between">
@@ -42,12 +78,15 @@ comments: true
   </li>
   <li style="color: #bbbbbb;">
     <span>
-    <u>許智豪</u>
-    <span id="coauthors-1" style="display: none;">
-      , 荒木拓登, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, 井上邦雄, John G. Learned, Viacheslav A. Li, William F. McDonough, 大野建, 小野隆伸, 酒井汰一, Jackson Seligman, Nathan Sibert, David Vartanyan, 渡辺寛子, Jeffrey Yepez
+    <u>許智豪, </u>
+    <input type="checkbox" class="toggle-authors" id="authors-1">
+    <label for="authors-1" class="author-label">
+      <span class="closed"> for OBD Group. ▼</span>
+      <span class="open"> ▲ hide</span>
+    </label>
+    <span class="coauthor-list">
+      荒木拓登, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, 井上邦雄, John G. Learned, Viacheslav A. Li, William F. McDonough, 大野建, 小野隆伸, 酒井汰一, Jackson Seligman, Nathan Sibert, David Vartanyan, 渡辺寛子, Jeffrey Yepez
     </span>
-    <span id="toggle-btn-1" style="color: #8888ff; cursor: pointer;" onclick="toggleCoauthors(1)"> for OBD Group. ▼</span>
-    <span id="hide-btn-1" style="color: #8888ff; cursor: pointer; display: none;" onclick="toggleCoauthors(1)"> ▲ hide</span>
   </span><br>
     <span><b>マントル地球ニュートリノ直接観測に向けた海洋底反ニュートリノ検出器の研究開発 15：方向有感観測に基づいた地球大規模構造の識別可能性評価. </b></span><br>
     <span><a href="https://www.jps.or.jp/activities/meetings/annual/annual-index.php" target="_blank">日本物理学会第80回年度大会</a>. 広島県東広島市. (2025年9月, 口頭, 準備中) </span>
