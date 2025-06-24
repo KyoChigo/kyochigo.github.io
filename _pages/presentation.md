@@ -8,6 +8,19 @@ comments: true
   li {
     margin-bottom: 16px;
   }
+
+  details summary::-webkit-details-marker {
+    display: none;
+  }
+  details[open] > summary::after {
+    content: " ▲";
+    color: #8888ff;
+  }
+  details:not([open]) > summary::after {
+    content: " ▼";
+    color: #8888ff;
+  }
+  
 </style>
 
 <div class="row justify-content-between">
