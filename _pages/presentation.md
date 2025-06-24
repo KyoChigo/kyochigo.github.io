@@ -16,7 +16,6 @@ comments: true
   .author-label {
     color: #8888ff;
     cursor: pointer;
-    text-decoration: underline;
   }
 
   .coauthor-list {
@@ -85,7 +84,7 @@ comments: true
       <span class="open"> ▲ hide</span>
     </label>
     <span class="coauthor-list">
-      荒木拓登, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, 井上邦雄, John G. Learned, Viacheslav A. Li, William F. McDonough, 大野建, 小野隆伸, 酒井汰一, Jackson Seligman, Nathan Sibert, David Vartanyan, 渡辺寛子, Jeffrey Yepez
+      荒木拓登, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, 井上邦雄, John G. Learned, Viacheslav A. Li, William F. McDonough, 大野建, 小野隆伸, 酒井汰一, Jackson Seligman, Nathan Sibert, David Vartanyan, 渡辺寛子, Jeffrey Yepez.
     </span>
   </span><br>
     <span><b>マントル地球ニュートリノ直接観測に向けた海洋底反ニュートリノ検出器の研究開発 15：方向有感観測に基づいた地球大規模構造の識別可能性評価. </b></span><br>
