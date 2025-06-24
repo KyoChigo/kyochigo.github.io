@@ -10,10 +10,15 @@ comments: true
   }
 
   .toggle-authors {
-    visibility: hidden;
-    width: 0;
-    height: 0;
+    clip: rect(0 0 0 0);
+    clip-path: inset(100%);
+    height: 1px;
+    width: 1px;
+    margin: -1px;
+    overflow: hidden;
     position: absolute;
+    white-space: nowrap;
+    border: 0;
   }
 
   .author-label {
@@ -80,7 +85,7 @@ comments: true
   </li>
   <li style="color: #bbbbbb;">
     <span>
-    <u>許智豪, </u>
+    <u>許智豪</u>, 
     <input type="checkbox" class="toggle-authors" id="authors-1">
     <label for="authors-1" class="author-label">
       <span class="closed"> for OBD Group. ▼</span>
