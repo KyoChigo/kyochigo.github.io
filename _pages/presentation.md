@@ -32,8 +32,8 @@ comments: true
   <li>
     <u>Zhihao Xu</u>, 
     <details style="display: inline;">
-      <summary style="color: #8888ff; cursor: pointer; text-decoration: underline; display: inline;">
-      for OBD Group. ▼
+      <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
+      for OBD Group.
       </summary>
       <span>
       Kunio Inoue, Hiroko Watanabe, Taichi Sakai, Takumi Araki, Takeru Ohno, Simran Chauhan, Takanobu Ono, William F. McDonough, Kenta Ueki, Natsue Abe, Noriaki Sakurai, Masanori Kyo, Eiichiro Araki, Takafumi Kasaya, Hiroshi Yoshida.
@@ -44,8 +44,8 @@ comments: true
   <li>
     <u>許智豪</u>, 
     <details style="display: inline;">
-      <summary style="color: #8888ff; cursor: pointer; text-decoration: underline; display: inline;">
-      for OBD Group. ▼
+      <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
+      for OBD Group.
       </summary>
       <span>
       井上邦雄, 渡辺寛子, 酒井汰一, 荒木拓登, 大野建, Simran Chauhan, 小野隆伸, William McDonough, 上木賢太, 阿部なつ江, 櫻井紀旭, 許正憲, 荒木英一郎, 笠谷貴史, 吉田弘.
@@ -60,8 +60,8 @@ comments: true
   <li>
     <u>Zhihao Xu</u>, 
     <details style="display: inline;">
-      <summary style="color: #8888ff; cursor: pointer; text-decoration: underline; display: inline;">
-      for OBD Group. ▼
+      <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
+      for OBD Group.
       </summary>
       <span>
       Kunio Inoue, Hiroko Watanabe, Taichi Sakai, Takumi Araki, Takeru Ohno, Simran Chauhan, Takanobu Ono, William F. McDonough.
@@ -72,8 +72,8 @@ comments: true
   <li style="color: #bbbbbb;">
     <u>Zhihao Xu</u>, 
     <details style="display: inline;">
-      <summary style="color: #8888ff; cursor: pointer; text-decoration: underline; display: inline;">
-      for OBD Group. ▼
+      <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
+      for OBD Group.
       </summary>
       <span>
       Takumi Araki, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takeru Ohno, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, David Vartanyan, Hiroko Watanabe, Jeffrey Yepez.
@@ -84,8 +84,8 @@ comments: true
   <li style="color: #bbbbbb;">
     <u>許智豪</u>, 
     <details style="display: inline;">
-      <summary style="color: #8888ff; cursor: pointer; text-decoration: underline; display: inline;">
-      for OBD Group. ▼
+      <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
+      for OBD Group.
       </summary>
       <span>
       荒木拓登, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, 井上邦雄, John G. Learned, Viacheslav A. Li, William F. McDonough, 大野建, 小野隆伸, 酒井汰一, Jackson Seligman, Nathan Sibert, David Vartanyan, 渡辺寛子, Jeffrey Yepez.
