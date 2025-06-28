@@ -6,17 +6,11 @@ comments: true
 ---
 <style>
   li {
-    margin-bottom: 16px;
+    margin-bottom: 12px;
   }
 
   .no-margin-list li {
     margin-bottom: 0;
-  }
-
-  .sub-indent {
-    margin-bottom: 0;
-    padding-left: 2rem;
-    font-size: 0.95rem;
   }
   
   details summary::-webkit-details-marker {
