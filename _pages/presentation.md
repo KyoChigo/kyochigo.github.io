@@ -80,6 +80,7 @@ comments: true
     </span></details>
     <span><b>Towards imaging Earth’s large-scale structures by directional geoneutrino detection with Ocean Bottom Detector. </b></span><br>
     <span><a href="https://hep.tsinghua.edu.cn/taup/" target="_blank">XIX International Conference on Topics in Astroparticle and Underground Physics (TAUP 2025)</a>. Xichang, China. (August 2025, oral, in preparing) </span>
+  </li>
   <li style="color: #bbbbbb;">
     <u>Zhihao Xu</u>, 
     <details style="display: inline;">
