@@ -80,6 +80,17 @@ comments: true
     </span></details>
     <span><b>Towards imaging Earth’s large-scale structures by directional geoneutrino detection with Ocean Bottom Detector. </b></span><br>
     <span><a href="https://hep.tsinghua.edu.cn/taup/" target="_blank">XIX International Conference on Topics in Astroparticle and Underground Physics (TAUP 2025)</a>. Xichang, China. (August 2025, oral, in preparing) </span>
+  <li style="color: #bbbbbb;">
+    <u>Zhihao Xu</u>, 
+    <details style="display: inline;">
+      <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
+      for OBD Group.
+      </summary>
+      <span>
+      Takumi Araki, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takeru Ohno, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, David Vartanyan, Hiroko Watanabe, Jeffrey Yepez.
+    </span></details>
+    <span><b>Towards imaging large-scale mantle structures by directional geoneutrino detection with Ocean Bottom Detector. </b></span><br>
+    <span>KamLAND Collaboration Meeting 2025 Summer. Toyama, Toyama. (September 2025, oral, internal, in preparing) </span>
   </li>
   <li style="color: #bbbbbb;">
     <u>許智豪</u>, 
