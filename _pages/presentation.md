@@ -14,6 +14,7 @@ comments: true
   }
 
   .sub-indent {
+    margin-bottom: 0;
     padding-left: 1rem;
     font-size: 0.95rem;
   }
