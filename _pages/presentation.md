@@ -26,6 +26,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
+<h4>Presentations at Conferences</h5>
 <h5>AY 2024 (April 2024 – March 2025, B4)</h5>
 
 <ol>
@@ -89,7 +90,7 @@ comments: true
 </ol>
 
 
-<h5>Internal Collaboration Meetings</h5>
+<h4>Presentations at Internal Collaboration Meetings</h5>
 <ol>
   <li>
     <u>Zhihao Xu</u>, 
@@ -101,7 +102,7 @@ comments: true
       Kunio Inoue, Hiroko Watanabe, Taichi Sakai, Takumi Araki, Takeru Ohno, Simran Chauhan, Takanobu Ono, William F. McDonough, Kenta Ueki, Natsue Abe, Noriaki Sakurai, Masanori Kyo, Eiichiro Araki, Takafumi Kasaya, Hiroshi Yoshida.
     </span></details>
     <span><b>Geoneutrino observations from the ocean floor: the role of directional sensitivity. </b></span><br>
-    <span>KamLAND Collaboration Meeting 2025 Spring. Zao, Japan. (March 2025, poster, internal) </span>
+    <span>KamLAND Collaboration Meeting 2025 Spring. Zao, Japan. (March 2025, poster) </span>
   </li>
   <li style="color: #bbbbbb;">
     <u>Zhihao Xu</u>, 
@@ -113,7 +114,7 @@ comments: true
       Takumi Araki, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takeru Ohno, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, David Vartanyan, Hiroko Watanabe, Jeffrey Yepez.
     </span></details>
     <span><b>Towards imaging large-scale mantle structures by directional geoneutrino detection with Ocean Bottom Detector. </b></span><br>
-    <span>KamLAND Collaboration Meeting 2025 Summer. Toyama, Toyama. (September 2025, oral, internal, in preparing) </span>
+    <span>KamLAND Collaboration Meeting 2025 Summer. Toyama, Toyama. (September 2025, oral, in preparing) </span>
   </li>
 </ol>
 
