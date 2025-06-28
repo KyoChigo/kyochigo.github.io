@@ -32,11 +32,15 @@ comments: true
 
 <ul class="list-unstyled no-margin-list">
   <li><a href="#conf" class="text-decoration-none">📢 Presentations at Conferences</a></li>
+    <ul class="list-unstyled ml-3">
+      <li><a href="#conf-2024" class="text-decoration-none">AY 2024 (April 2024 – March 2025, B4)</a></li>
+      <li><a href="#conf-2025" class="text-decoration-none">AY 2025 (April 2025 – March 2026, M1)</a></li>
+    </ul>
   <li><a href="#internal" class="text-decoration-none">🧪 Presentations at Internal Collaboration Meetings</a></li>
 </ul>
 
 <h5 id="conf">Presentations at Conferences</h5>
-<h6>AY 2024 (April 2024 – March 2025, B4)</h6>
+<h6 id="conf-2024">AY 2024 (April 2024 – March 2025, B4)</h6>
 
 <ol>
   <li>
@@ -53,7 +57,7 @@ comments: true
   </li>
 </ol>
 
-<h6>AY 2025 (April 2025 – March 2026, M1)</h6>
+<h6 id="conf-2025">AY 2025 (April 2025 – March 2026, M1)</h6>
 <ol start="2">
   <li>
     <u>Zhihao Xu</u>, 
