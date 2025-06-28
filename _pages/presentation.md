@@ -9,6 +9,10 @@ comments: true
     margin-bottom: 16px;
   }
 
+  .no-margin-list li {
+    margin-bottom: 0;
+  }
+  
   details summary::-webkit-details-marker {
     display: none;
   }
@@ -26,7 +30,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<ul class="list-unstyled">
+<ul class="list-unstyled no-margin-list">
   <li><a href="#conf" class="text-decoration-none">📢 Presentations at Conferences</a></li>
   <li><a href="#internal" class="text-decoration-none">🧪 Presentations at Internal Collaboration Meetings</a></li>
 </ul>
