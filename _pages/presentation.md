@@ -26,8 +26,8 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<h4>Presentations at Conferences</h5>
-<h5>AY 2024 (April 2024 – March 2025, B4)</h5>
+<h5>Presentations at Conferences</h5>
+<h6>AY 2024 (April 2024 – March 2025, B4)</h6>
 
 <ol>
   <li>
@@ -44,7 +44,7 @@ comments: true
   </li>
 </ol>
 
-<h5>AY 2025 (April 2025 – March 2026, M1)</h5>
+<h6>AY 2025 (April 2025 – March 2026, M1)</h6>
 <ol start="2">
   <li>
     <u>Zhihao Xu</u>, 
@@ -90,7 +90,7 @@ comments: true
 </ol>
 
 
-<h4>Presentations at Internal Collaboration Meetings</h5>
+<h5>Presentations at Internal Collaboration Meetings</h5>
 <ol>
   <li>
     <u>Zhihao Xu</u>, 
