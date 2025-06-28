@@ -30,18 +30,6 @@ comments: true
 
 <ol>
   <li>
-    <u>Zhihao Xu</u>, 
-    <details style="display: inline;">
-      <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
-      for OBD Group.
-      </summary>
-      <span>
-      Kunio Inoue, Hiroko Watanabe, Taichi Sakai, Takumi Araki, Takeru Ohno, Simran Chauhan, Takanobu Ono, William F. McDonough, Kenta Ueki, Natsue Abe, Noriaki Sakurai, Masanori Kyo, Eiichiro Araki, Takafumi Kasaya, Hiroshi Yoshida.
-    </span></details>
-    <span><b>Geoneutrino observations from the ocean floor: the role of directional sensitivity. </b></span><br>
-    <span>KamLAND Collaboration Meeting 2025 Spring. Zao, Japan. (March 2025, poster, internal) </span>
-  </li>
-  <li>
     <u>許智豪</u>, 
     <details style="display: inline;">
       <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
@@ -56,7 +44,7 @@ comments: true
 </ol>
 
 <h5>AY 2025 (April 2025 – March 2026, M1)</h5>
-<ol start="3">
+<ol start="2">
   <li>
     <u>Zhihao Xu</u>, 
     <details style="display: inline;">
@@ -82,18 +70,6 @@ comments: true
     <span><a href="https://hep.tsinghua.edu.cn/taup/" target="_blank">XIX International Conference on Topics in Astroparticle and Underground Physics (TAUP 2025)</a>. Xichang, China. (August 2025, oral, in preparing) </span>
   </li>
   <li style="color: #bbbbbb;">
-    <u>Zhihao Xu</u>, 
-    <details style="display: inline;">
-      <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
-      for OBD Group.
-      </summary>
-      <span>
-      Takumi Araki, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takeru Ohno, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, David Vartanyan, Hiroko Watanabe, Jeffrey Yepez.
-    </span></details>
-    <span><b>Towards imaging large-scale mantle structures by directional geoneutrino detection with Ocean Bottom Detector. </b></span><br>
-    <span>KamLAND Collaboration Meeting 2025 Summer. Toyama, Toyama. (September 2025, oral, internal, in preparing) </span>
-  </li>
-  <li style="color: #bbbbbb;">
     <u>許智豪</u>, 
     <details style="display: inline;">
       <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
@@ -113,6 +89,33 @@ comments: true
 </ol>
 
 
+<h5>Internal Collaboration Meetings</h5>
+<ol>
+  <li>
+    <u>Zhihao Xu</u>, 
+    <details style="display: inline;">
+      <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
+      for OBD Group.
+      </summary>
+      <span>
+      Kunio Inoue, Hiroko Watanabe, Taichi Sakai, Takumi Araki, Takeru Ohno, Simran Chauhan, Takanobu Ono, William F. McDonough, Kenta Ueki, Natsue Abe, Noriaki Sakurai, Masanori Kyo, Eiichiro Araki, Takafumi Kasaya, Hiroshi Yoshida.
+    </span></details>
+    <span><b>Geoneutrino observations from the ocean floor: the role of directional sensitivity. </b></span><br>
+    <span>KamLAND Collaboration Meeting 2025 Spring. Zao, Japan. (March 2025, poster, internal) </span>
+  </li>
+  <li style="color: #bbbbbb;">
+    <u>Zhihao Xu</u>, 
+    <details style="display: inline;">
+      <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
+      for OBD Group.
+      </summary>
+      <span>
+      Takumi Araki, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takeru Ohno, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, David Vartanyan, Hiroko Watanabe, Jeffrey Yepez.
+    </span></details>
+    <span><b>Towards imaging large-scale mantle structures by directional geoneutrino detection with Ocean Bottom Detector. </b></span><br>
+    <span>KamLAND Collaboration Meeting 2025 Summer. Toyama, Toyama. (September 2025, oral, internal, in preparing) </span>
+  </li>
+</ol>
 
 </div>
 
