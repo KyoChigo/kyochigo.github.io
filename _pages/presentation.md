@@ -15,7 +15,7 @@ comments: true
 
   .sub-indent {
     margin-bottom: 0;
-    padding-left: 4rem;
+    padding-left: 2rem;
     font-size: 0.95rem;
   }
   
@@ -38,11 +38,6 @@ comments: true
 
 <ul class="list-unstyled no-margin-list">
   <li><a href="#conf" class="text-decoration-none">📢 Presentations at Conferences</a>
-    <ul class="list-unstyled no-margin-list">
-      <li class="sub-indent"><a href="#conf-2024" class="text-decoration-none">AY 2024 (April 2024 – March 2025, B4)</a></li>
-      <li class="sub-indent"><a href="#conf-2025" class="text-decoration-none">AY 2025 (April 2025 – March 2026, M1)</a></li>
-    </ul>
-  </li>
   <li><a href="#internal" class="text-decoration-none">🧪 Presentations at Internal Collaboration Meetings</a></li>
 </ul>
 
