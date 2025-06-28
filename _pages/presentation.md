@@ -94,7 +94,7 @@ comments: true
     <span><a href="https://www.jps.or.jp/activities/meetings/annual/annual-index.php" target="_blank">日本物理学会第80回年度大会</a>. 広島県東広島市. (2025年9月, 口頭, 準備中) </span>
   </li>
   <li style="color: #bbbbbb;">
-    <u>Zhihao Xu</u>, 
+    <u>Zhihao Xu</u>, <br>
     <span><b>TBD. </b></span><br>
     <span><a href="https://indico.global/event/14476/" target="_blank">Neutrino Geoscience 2025</a>. Kingston, Canada. (October 2025, poster, in preparing) </span>
   </li>
