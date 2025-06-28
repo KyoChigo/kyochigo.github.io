@@ -38,7 +38,7 @@ comments: true
 
 <ul class="list-unstyled no-margin-list">
   <li><a href="#conf" class="text-decoration-none">📢 Presentations at Conferences</a></li>
-  <li><a href="#internal" class="text-decoration-none">🧪 Presentations at Internal Collaboration Meetings</a></li>
+  <li><a href="#internal" class="text-decoration-none">🤝 Presentations at Internal Collaboration Meetings</a></li>
 </ul>
 
 <h5 id="conf">Presentations at Conferences</h5>
