@@ -26,7 +26,12 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<h5>Presentations at Conferences</h5>
+<ul class="list-unstyled">
+  <li><a href="#conf" class="text-decoration-none">📢 Presentations at Conferences</a></li>
+  <li><a href="#internal" class="text-decoration-none">🧪 Internal Collaboration Meetings</a></li>
+</ul>
+
+<h5 id="conf">Presentations at Conferences</h5>
 <h6>AY 2024 (April 2024 – March 2025, B4)</h6>
 
 <ol>
@@ -90,7 +95,7 @@ comments: true
 </ol>
 
 
-<h5>Presentations at Internal Collaboration Meetings</h5>
+<h5 id="internal">Presentations at Internal Collaboration Meetings</h5>
 <ol>
   <li>
     <u>Zhihao Xu</u>, 
