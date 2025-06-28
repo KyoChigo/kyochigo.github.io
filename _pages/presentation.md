@@ -37,7 +37,7 @@ comments: true
 <div class="col-md-8 pr-5">
 
 <ul class="list-unstyled no-margin-list">
-  <li><a href="#conf" class="text-decoration-none">📢 Presentations at Conferences</a>
+  <li><a href="#conf" class="text-decoration-none">📢 Presentations at Conferences</a></li>
   <li><a href="#internal" class="text-decoration-none">🧪 Presentations at Internal Collaboration Meetings</a></li>
 </ul>
 
