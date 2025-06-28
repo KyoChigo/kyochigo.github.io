@@ -32,7 +32,7 @@ comments: true
 
 <ul class="list-unstyled no-margin-list">
   <li><a href="#conf" class="text-decoration-none">📢 Presentations at Conferences</a></li>
-    <ul class="list-unstyled no-margin-list ml-3">
+    <ul class="list-unstyled no-margin-list ml-8">
       <li><a href="#conf-2024" class="text-decoration-none">AY 2024 (April 2024 – March 2025, B4)</a></li>
       <li><a href="#conf-2025" class="text-decoration-none">AY 2025 (April 2025 – March 2026, M1)</a></li>
     </ul>
