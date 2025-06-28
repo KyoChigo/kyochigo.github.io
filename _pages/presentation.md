@@ -93,6 +93,11 @@ comments: true
     <span><b>マントル地球ニュートリノ直接観測に向けた海洋底反ニュートリノ検出器の研究開発 16：方向有感観測に基づいた地球大規模構造の識別可能性評価. </b></span><br>
     <span><a href="https://www.jps.or.jp/activities/meetings/annual/annual-index.php" target="_blank">日本物理学会第80回年度大会</a>. 広島県東広島市. (2025年9月, 口頭, 準備中) </span>
   </li>
+  <li style="color: #bbbbbb;">
+    <u>Zhihao Xu</u>, 
+    <span><b>TBD. </b></span><br>
+    <span><a href="https://indico.global/event/14476/" target="_blank">Neutrino Geoscience 2025</a>. Kingston, Canada. (October 2025, poster, in preparing) </span>
+  </li>
 </ol>
 
 
