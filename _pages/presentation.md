@@ -123,7 +123,7 @@ comments: true
       Takumi Araki, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takeru Ohno, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, David Vartanyan, Hiroko Watanabe, Jeffrey Yepez.
     </span></details>
     <span><b>Towards imaging large-scale mantle structures by directional geoneutrino detection with Ocean Bottom Detector. </b></span><br>
-    <span>KamLAND Collaboration Meeting 2025 Summer. Toyama, Toyama. (September 2025, oral, in preparing) </span>
+    <span>KamLAND Collaboration Meeting 2025 Summer. Toyama, Japan. (September 2025, oral, in preparing) </span>
   </li>
 </ol>
 
