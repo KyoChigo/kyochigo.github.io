@@ -66,7 +66,7 @@ comments: true
     </span></details>
     <span><b>Theoretical insights into Earth's heat from geoneutrino detection by Ocean Bottom Detector: role of angular resolution. </b></span><br>
     <span><a href="https://confit.atlas.jp/guide/event/jpgu2025/subject/SIT21-05/detail" target="_blank">Japan Geoscience Union Meeting 2025</a>. Chiba, Japan. (May 2025, oral) </span><br>
-    <span style="color: red">Received the Student Outstanding Presentation Award.</span>
+    <span style="color: red">Received the Outstanding Student Presentation Award.</span>
   </li>
   <li style="color: #bbbbbb;">
     <u>Zhihao Xu</u>, 
