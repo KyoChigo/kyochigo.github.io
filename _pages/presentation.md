@@ -119,7 +119,7 @@ comments: true
     <span><b>Geoneutrino observations from the ocean floor: the role of directional sensitivity. </b></span><br>
     <span>KamLAND Collaboration Meeting 2025 Spring. Zao, Japan. (March 2025, poster) </span>
   </li>
-  <li style="color: #bbbbbb;">
+  <li>
     <u>Zhihao Xu</u>, 
     <details style="display: inline;">
       <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
@@ -129,7 +129,7 @@ comments: true
       Takumi Araki, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takeru Ohno, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, David Vartanyan, Hiroko Watanabe, Jeffrey Yepez.
     </span></details>
     <span><b>Towards imaging large-scale mantle structures by directional geoneutrino detection with Ocean Bottom Detector. </b></span><br>
-    <span>KamLAND Collaboration Meeting 2025 Summer. Toyama, Japan. (September 2025, oral, in preparing) </span>
+    <span>KamLAND Collaboration Meeting 2025 Summer. Toyama, Japan. (September 2025, oral) </span>
   </li>
 </ol>
 
