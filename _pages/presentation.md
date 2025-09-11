@@ -95,7 +95,7 @@ comments: true
   <li style="color: #bbbbbb;">
     <u>Zhihao Xu</u>, Hiroko Watanabe, William F. McDonough.<br>
     <span><b>Revealing mantle heterogeneities with future directional geoneutrino detection. </b></span><br>
-    <span><a href="https://indico.global/event/14476/" target="_blank">Neutrino Geoscience 2025</a>. Kingston, Canada. (October 2025, poster, in preparing) </span>
+    <span><a href="https://indico.global/event/14476/" target="_blank">Neutrino Geoscience 2025</a>. Kingston, Canada. (October 2025, oral, in preparing) </span>
   </li>
 </ol>
 
