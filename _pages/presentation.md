@@ -35,11 +35,11 @@ comments: true
   <li><a href="#internal" class="text-decoration-none">Presentations at Internal Collaboration Meetings</a></li>
 </ul>
 
-<p class="text-muted">
+<div class="p-3 mb-3 border rounded bg-light text-muted">
   Items are shown in the language used at the presentation (English, Japanese, Chinese).<br>
-  発表で使用した言語で表記しています。（英語、日本語、中文）<br>
+  発表で使用した言語で表記しています。（英語、日本語、中国語）<br>
   各条目采用发表时的语言展示。（英文、日文、中文）
-</p>
+</div>
 
 <h5 id="conf">Presentations at Conferences</h5>
 <h6 id="conf-2024">AY 2024 (April 2024 – March 2025, B4)</h6>
