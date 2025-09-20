@@ -31,8 +31,8 @@ comments: true
 <div class="col-md-8 pr-5">
 
 <ul class="list-unstyled no-margin-list">
-  <li><a href="#conf" class="text-decoration-none">Presentations at Conferences</a></li>
-  <li><a href="#internal" class="text-decoration-none">Presentations at Internal Collaboration Meetings</a></li>
+  <li><a href="#conf" class="text-decoration-none">Conferences</a></li>
+  <li><a href="#internal" class="text-decoration-none">Internal Collaboration Meetings</a></li>
 </ul>
 
 <div class="p-3 mb-3 border rounded bg-light text-muted">
@@ -41,7 +41,7 @@ comments: true
   各条目采用发表时的语言展示。（英文、日文、中文）
 </div>
 
-<h5 id="conf">Presentations at Conferences</h5>
+<h5 id="conf">Conferences</h5>
 <h6 id="conf-2024">AY 2024 (April 2024 – March 2025, B4)</h6>
 
 <ol>
@@ -106,7 +106,7 @@ comments: true
 </ol>
 
 
-<h5 id="internal">Presentations at Internal Collaboration Meetings</h5>
+<h5 id="internal">Internal Collaboration Meetings</h5>
 <ol>
   <li>
     <u>Zhihao Xu</u>, 
