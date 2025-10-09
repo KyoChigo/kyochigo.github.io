@@ -99,9 +99,21 @@ comments: true
     <span><a href="https://onsite.gakkai-web.net/jps/jps_search/2025au/data2/html/programsj.html#:~:text=%E3%83%9E%E3%83%B3%E3%83%88%E3%83%AB%E5%9C%B0%E7%90%83%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%8E%E7%9B%B4%E6%8E%A5%E8%A6%B3%E6%B8%AC%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E6%B5%B7%E6%B4%8B%E5%BA%95%E5%8F%8D%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%8E%E6%A4%9C%E5%87%BA%E5%99%A8%E3%81%AE%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%2016%3A%E6%96%B9%E5%90%91%E6%9C%89%E6%84%9F%E8%A6%B3%E6%B8%AC%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%84%E3%81%9F%E5%9C%B0%E7%90%83%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%A7%8B%E9%80%A0%E3%81%AE%E8%AD%98%E5%88%A5%E5%8F%AF%E8%83%BD%E6%80%A7%E8%A9%95%E4%BE%A1" target="_blank">日本物理学会第80回年度大会</a>. 17pEK108-7. 広島県東広島市. (2025年9月, 口頭).</span><br>
   </li>
   <li style="color: #bbbbbb;">
-    <u>Zhihao Xu</u>, Hiroko Watanabe, William F. McDonough.<br>
+    <u>Zhihao Xu</u>, 
+    <details style="display: inline;">
+      <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
+      for OBD Group.
+      </summary>
+      <span>
+      Takumi Araki, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takeru Ohno, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, David Vartanyan, Hiroko Watanabe, Jeffrey Yepez.
+    </span></details>
     <span><b>Revealing mantle heterogeneities with future directional geoneutrino detection. </b></span><br>
     <span><a href="https://indico.global/event/14476/" target="_blank">Neutrino Geoscience 2025</a>. Kingston, Canada. (October 2025, oral, in preparing).</span>
+  </li>
+  <li style="color: #bbbbbb;">
+    <u>Zhihao Xu</u>, William F. McDonough, Laura S. Keen.<br>
+    <span><b>Applying the Burr Type XII Distribution to Skewed Geochemical Data. </b></span><br>
+    <span><a href="https://indico.global/event/14476/" target="_blank">Neutrino Geoscience 2025</a>. Kingston, Canada. (October 2025, flash talk, in preparing).</span>
   </li>
 </ol>
 
