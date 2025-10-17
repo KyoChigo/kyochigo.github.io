@@ -100,7 +100,7 @@ comments: true
   </li>
   <li style="color: #bbbbbb;">
     <u>Zhihao Xu</u>, William F. McDonough, Laura S. Keen.<br>
-    <span><b>Applying the Burr Type XII Distribution to Skewed Geochemical Data. </b></span><br>
+    <span><b>Applying the Burr type XII distribution to skewed geochemical data. </b></span><br>
     <span><a href="https://indico.global/event/14476/" target="_blank">Neutrino Geoscience 2025</a>. Kingston, Canada. (October 2025, flash talk, in preparing).</span>
   </li>
   <li style="color: #bbbbbb;">
