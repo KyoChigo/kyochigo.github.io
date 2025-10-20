@@ -90,6 +90,7 @@ reflecting a deep interest in interdisciplinary approaches to understanding both
   <li>September 2023: <a target="_blank" href="https://www.jishin.go.jp/resource/column/column_23aut_p08/">Incentive Award for Computer Science x Seismology</a>, MEXT 2nd Seismic and Geodetic Data Utilization Idea Contest</li>
   <li>March 2024: <a target="_blank" href="https://www.sci.tohoku.ac.jp/news/20240327-13136.html">Incentive Award of Aoba Society for the Promotion of Science</a>, Tohoku University</li>
   <li>May 2025: <a target="_blank" href="https://www.jpgu.org/ospa/2025meeting/#:~:text=segregation%20and%20dislocation-,%E8%A8%B1%20%E6%99%BA%E8%B1%AA">Outstanding Student Presentation Award</a>, Japan Geoscience Union Meeting 2025</li>
+  <li>September 2025: <a target="_blank" href="https://www.jps.or.jp/activities/awards/gakusei/2025a_student_presentation_award.php#:~:text=%E6%B0%8F%E5%90%8D-,%E8%A8%B1%E3%80%80%E6%99%BA%E8%B1%AA,-Xu%20Zhihao">Student Presentation Award</a>, 80th Annual Meeting (2025) of the Physical Society of Japan</li>
 </ul>
 
 
