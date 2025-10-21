@@ -21,6 +21,7 @@ comments: true
 
 <ul>
   <li><a href="https://geoneutrinos.org/" target="_blank">Geoneutrino.org</a> - An interactive earth model allows quick visualization of geoneutino fluxes</li>
+  <li><a href="https://geonucalculator.wstd.io/" target="_blank">GEONU calculator</a> - A MATLAB-based program for calculating geoneutrino fluxes</li>
 </ul>
 
 
