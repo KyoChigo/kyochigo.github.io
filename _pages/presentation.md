@@ -116,7 +116,7 @@ comments: true
     <span><b>Revealing mantle heterogeneities with future directional geoneutrino detection. </b></span><br>
     <span><a href="https://indico.global/event/14476/contributions/135628/" target="_blank">Neutrino Geoscience 2025</a>. Kingston Marriott (Kingston, Canada). (October 2025, oral, in preparing).</span>
   </li>
-  <li>
+  <li style="color: #bbbbbb;">
     <u>許智豪</u>, 
     <details style="display: inline;">
       <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
