@@ -111,7 +111,7 @@ comments: true
       for OBD Group.
       </summary>
       <span>
-      Takumi Araki, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takeru Ohno, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, David Vartanyan, Hiroko Watanabe, Jeffrey Yepez.
+      Takumi Araki, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, Misaki Hosoya, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takeru Ohno, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, David Vartanyan, Hiroko Watanabe, Jeffrey Yepez.
     </span></details>
     <span><b>Revealing mantle heterogeneities with future directional geoneutrino detection. </b></span><br>
     <span><a href="https://indico.global/event/14476/contributions/135628/" target="_blank">Neutrino Geoscience 2025</a>. Kingston Marriott (Kingston, Canada). (October 2025, oral, in preparing).</span>
