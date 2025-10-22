@@ -123,7 +123,7 @@ comments: true
       for OBD Group.
       </summary>
       <span>
-      荒木拓登, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, 井上邦雄, John G. Learned, Viacheslav A. Li, William F. McDonough, 大野建, 小野隆伸, 酒井汰一, Jackson Seligman, Nathan Sibert, David Vartanyan, 渡辺寛子, Jeffrey Yepez.
+      荒木拓登, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, 細谷南咲, 井上邦雄, John G. Learned, Viacheslav A. Li, William F. McDonough, 大野建, 小野隆伸, 酒井汰一, Jackson Seligman, Nathan Sibert, David Vartanyan, 渡辺寛子, Jeffrey Yepez.
     </span></details>
     <span><b>液体シンチレータ検出器を用いた地球大規模構造探査のための角度分解能評価. </b></span><br>
     <span><a href="https://www.icrr.u-tokyo.ac.jp/YMAP/event/conf2025/index.html" target="_blank">第10回宇宙素粒子若手の会（YMAP）秋の研究会</a>. 東京大学宇宙線研究所 (千葉県柏市). (2025年12月, 口頭, 準備中).</span><br>
