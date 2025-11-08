@@ -36,11 +36,7 @@ comments: true
 </ul>
 
 <h5 id="journal">Journal papers</h5>
-<ol>
-  <li>
-  Journal papers are cooking. Stay tuned!
-  </li>
-</ol>
+<i>Journal papers are cooking. Stay tuned!</i>
 
 
 <h5 id="proceedings">Conference proceedings</h5>
