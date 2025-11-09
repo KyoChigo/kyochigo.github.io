@@ -138,6 +138,18 @@ comments: true
       荒木拓登, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, 細谷南咲, 井上邦雄, John G. Learned, Viacheslav A. Li, William F. McDonough, 大野建, 小野隆伸, 酒井汰一, Jackson Seligman, Nathan Sibert, David Vartanyan, 渡辺寛子, Jeffrey Yepez.
     </span></details>
     <span><b>TBD. </b></span><br>
+    <span><a href="https://www.lowbg.org/ugrp/workshop/yr2025/index.html" target="_blank">第2回学術変革「地下稀事象」若手研究会</a>. 神戸大学瀧川記念学術交流会館, 兵庫県神戸市. (2026年3月, 口頭, 準備中).</span><br>
+  </li>
+  <li style="color: #bbbbbb;">
+    <u>許智豪</u>, 
+    <details style="display: inline;">
+      <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
+      for OBD Group.
+      </summary>
+      <span>
+      荒木拓登, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, 細谷南咲, 井上邦雄, John G. Learned, Viacheslav A. Li, William F. McDonough, 大野建, 小野隆伸, 酒井汰一, Jackson Seligman, Nathan Sibert, David Vartanyan, 渡辺寛子, Jeffrey Yepez.
+    </span></details>
+    <span><b>TBD. </b></span><br>
     <span><a href="https://www.jps.or.jp/activities/meetings/spring/spring_index.php" target="_blank">日本物理学会2026年春季大会</a>. オンライン. (2026年3月, 口頭, 準備中).</span><br>
   </li>
 </ol>
