@@ -42,7 +42,7 @@ comments: true
 <h5 id="proceedings">Conference proceedings</h5>
 <ol>
   <li>
-    <span><u>Zhihao Xu</u>, Takumi Araki, Simran Chauhan, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, Misaki Hosoya, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takeru Ohno, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, David Vartanyan, Hiroko Watanabe, Jeffrey Yepez (OBD Working Group). (2026).</span><br>
+    <span><u>Zhihao Xu</u>, Takumi Araki, Simran Chauhan, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, Misaki Hosoya, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takeru Ohno, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, David Vartanyan, Hiroko Watanabe, Jeffrey Yepez (OBD Consortium). (2026).</span><br>
     <span><b>Towards imaging Earth’s large-scale structures by directional geoneutrino detection with Ocean Bottom Detector. </b></span><br>
     <span><i>Proceedings of Science</i>, Proceedings of 19th International Conference on Topics in Astroparticle and Underground Physics (TAUP 2025). (submitted).</span>
   </li>
