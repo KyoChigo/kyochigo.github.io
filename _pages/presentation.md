@@ -122,7 +122,7 @@ comments: true
     <span><a href="https://www.icrr.u-tokyo.ac.jp/YMAP/event/conf2025/index.html" target="_blank">第10回宇宙素粒子若手の会（YMAP）秋の研究会</a>. 東京大学宇宙線研究所, 千葉県柏市. (2025年12月, 口頭, 準備中).</span><br>
   </li>
   <li style="color: #bbbbbb;">
-    <u>Zhihao Xu</u>, Hiroko Watanabe, William F. McDonough.
+    <u>Zhihao Xu</u>, Hiroko Watanabe, William F. McDonough.<br>
     <span><b>Angular resolution required for probing geochemical heterogeneities through geoneutrino detection. (Tentative)</b></span><br>
     <span><a href="https://indico.global/event/15704/" target="_blank">9th CYGNUS Workshop on Directional Recoil Detection</a>. Kobe University, Kobe, Japan. (February 2026, oral, in preparation).</span><br>
   </li>
