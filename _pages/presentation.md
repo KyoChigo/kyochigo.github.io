@@ -124,7 +124,7 @@ comments: true
   <li style="color: #bbbbbb;">
     <u>Zhihao Xu</u>, Hiroko Watanabe, William F. McDonough.<br>
     <span><b>Angular resolution required for probing geochemical heterogeneities through geoneutrino detection. (Tentative)</b></span><br>
-    <span><a href="https://indico.global/event/15704/" target="_blank">9th CYGNUS Workshop on Directional Recoil Detection</a>. Integrated Research Center of Kobe University, Kobe, Japan. (February 2026, oral, in preparation).</span><br>
+    <span><a href="https://indico.global/event/15704/" target="_blank">9th International CYGNUS Workshop on Directional Recoil Detection</a>. Integrated Research Center of Kobe University, Kobe, Japan. (February 2026, oral, in preparation).</span><br>
   </li>
   <li style="color: #bbbbbb;">
     <u>許智豪</u>, 
