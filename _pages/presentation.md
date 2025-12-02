@@ -132,7 +132,7 @@ comments: true
     <u>Zhihao Xu</u>, 
     <details style="display: inline;">
       <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
-      for OBD Group.
+      for OBD Consortium.
       </summary>
       <span>
       Takumi Araki, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, Misaki Hosoya, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takeru Ohno, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, David Vartanyan, Hiroko Watanabe, Jeffrey Yepez.
