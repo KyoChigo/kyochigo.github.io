@@ -116,7 +116,7 @@ comments: true
     <span><b>Revealing mantle heterogeneities with future directional geoneutrino detection. </b></span><br>
     <span><a href="https://indico.global/event/14476/contributions/135628/" target="_blank">Neutrino Geoscience 2025</a>. Kingston Marriott, Kingston, Canada. (October 2025, oral).</span>
   </li>
-  <li style="color: #bbbbbb;">
+  <li>
     <u>許智豪</u>, 
     <details style="display: inline;">
       <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
@@ -126,7 +126,7 @@ comments: true
       荒木拓登, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, 細谷南咲, 井上邦雄, John G. Learned, Viacheslav A. Li, William F. McDonough, 大野建, 小野隆伸, 酒井汰一, Jackson Seligman, Nathan Sibert, David Vartanyan, 渡辺寛子, Jeffrey Yepez.
     </span></details>
     <span><b>液体シンチレータ検出器を用いた地球大規模構造探査のための角度分解能評価. </b></span><br>
-    <span><a href="https://www.icrr.u-tokyo.ac.jp/YMAP/event/conf2025/index.html" target="_blank">第10回宇宙素粒子若手の会秋の研究会</a>. 東京大学宇宙線研究所, 千葉県柏市. (2025年12月, 口頭, 準備中).</span><br>
+    <span><a href="https://www.icrr.u-tokyo.ac.jp/YMAP/event/conf2025/index.html" target="_blank">第10回宇宙素粒子若手の会秋の研究会</a>. 東京大学宇宙線研究所, 千葉県柏市. (2025年12月, 口頭).</span><br>
   </li>
   <li style="color: #bbbbbb;">
     <u>Zhihao Xu</u>, 
