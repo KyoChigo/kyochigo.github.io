@@ -42,7 +42,14 @@ comments: true
 <h5 id="proceedings">Conference proceedings</h5>
 <ol>
   <li>
-    <span><u>Z. Xu</u>, et al. (OBD Consortium). (2026).</span><br>
+    <span><u>Z. Xu</u>, 
+    <details style="display: inline;">
+      <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
+      et al.
+      </summary>
+      <span>
+      T. Araki, S. Chauhan, B. C. Crow, M. A. A. Dornfest, S. T. Dye, J. Graham, M. Hosoya, K. Inoue, J. G. Learned, V. A. Li, W. F. McDonough, T. Ohno, T. Ono, T. Sakai, J. Seligman, N. Sibert, D. Vartanyan, H. Watanabe, J. Yepez.
+    </span></details> (OBD Consortium). (2026).</span><br>
     <span><b>Towards imaging Earth’s large-scale structures by directional geoneutrino detection with Ocean Bottom Detector. </b></span><br>
     <span><i>Proceedings of Science</i>, Proceedings of 19th International Conference on Topics in Astroparticle and Underground Physics (TAUP 2025). (submitted).</span>
   </li>
