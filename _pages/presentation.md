@@ -159,7 +159,7 @@ comments: true
   <li style="color: #bbbbbb;">
     <u>Zhihao Xu</u>, Shuai Ouyang, William F. McDonough, Hiroko Watanabe, Mark Chen, Yang Zhang, Laura S. Keen.<br>
     <span><b>TBA. </b></span><br>
-    <span><a href="https://www.jpgu.org/meeting_e2026/" target="_blank">JpGU-AGU Joint Meeting 2026</a>. Makuhari Messe, Chiba, Japan. (May 2026, oral or poster).</span><br>
+    <span><a href="https://www.jpgu.org/meeting_e2026/" target="_blank">JpGU-AGU Joint Meeting 2026</a>. Makuhari Messe, Chiba, Japan. (May 2026, oral or poster, in preparation).</span><br>
   </li>
   <li style="color: #bbbbbb;">
     <u>Zhihao Xu</u>, 
@@ -171,7 +171,7 @@ comments: true
       Simran Chauhan, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, Misaki Hosoya, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, Hiroko Watanabe, Jeffrey Yepez.
     </span></details>
     <span><b>Evaluating the measurability of LLSVP chemical composition by future geoneutrino detection. </b></span><br>
-    <span><a href="https://www.jpgu.org/meeting_e2026/" target="_blank">JpGU-AGU Joint Meeting 2026</a>. Makuhari Messe, Chiba, Japan. (May 2026, oral or poster).</span><br>
+    <span><a href="https://www.jpgu.org/meeting_e2026/" target="_blank">JpGU-AGU Joint Meeting 2026</a>. Makuhari Messe, Chiba, Japan. (May 2026, oral or poster, in preparation).</span><br>
   </li>
 </ol>
 
