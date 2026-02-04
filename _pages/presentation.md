@@ -139,7 +139,6 @@ comments: true
     </span></details>
     <span><b>Experimental requirements for probing geochemical heterogeneities via directional geoneutrino detection.</b></span><br>
     <span><a href="https://indico.global/event/15704/" target="_blank">9th International CYGNUS Workshop on Directional Recoil Detection</a>. Integrated Research Center of Kobe University, Kobe, Japan. (February 2026, oral, in preparation).</span><br>
-  </li>
   <li style="color: #bbbbbb;">
     <u>許智豪</u>, 
     <details style="display: inline;">
