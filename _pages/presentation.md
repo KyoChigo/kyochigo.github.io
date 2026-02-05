@@ -150,7 +150,7 @@ comments: true
       荒木拓登, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, 細谷南咲, 井上邦雄, John G. Learned, Viacheslav A. Li, William F. McDonough, 大野建, 小野隆伸, 酒井汰一, Jackson Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, 渡辺寛子, Jeffrey Yepez.
     </span></details>
     <span><b>マントル地球ニュートリノ直接観測に向けた海洋底反ニュートリノ検出器の研究開発 17：方向有感観測に基づく地球大規模構造探査のための実験条件評価. </b></span><br>
-    <span><a href="https://www.jps.or.jp/activities/meetings/spring/spring_index.php" target="_blank">日本物理学会2026年春季大会</a>. オンライン. (2026年3月, 口頭, 準備中).</span><br>
+    <span><a href="https://www.jps.or.jp/activities/meetings/spring/spring_index.php" target="_blank">日本物理学会2026年春季大会</a>. 25pT2-4. オンライン. (2026年3月, 口頭, 準備中).</span><br>
   </li>
 </ol>
 
