@@ -173,6 +173,18 @@ comments: true
     <span><b>Evaluating the measurability of LLSVP chemical composition by future geoneutrino detection. </b></span><br>
     <span><a href="https://www.jpgu.org/meeting_e2026/" target="_blank">JpGU-AGU Joint Meeting 2026</a>. Makuhari Messe, Chiba, Japan. (May 2026, oral or poster, in preparation).</span><br>
   </li>
+  <li style="color: #bbbbbb;">
+    <u>Zhihao Xu</u>, 
+    <details style="display: inline;">
+      <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
+      for OBD Consortium.
+      </summary>
+      <span>
+      Simran Chauhan, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, Misaki Hosoya, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, Hiroko Watanabe, Jeffrey Yepez.
+    </span></details>
+    <span><b>TBD. </b></span><br>
+    <span><a href="https://sites.uci.edu/neutrino2026/" target="_blank">Neutrino 2026</a>. UC Irvine, Irvine, USA. (June 2026, poster, in preparation).</span><br>
+  </li>
 </ol>
 
 <h5 id="internal">Internal Collaboration Meetings</h5>
