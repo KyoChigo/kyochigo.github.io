@@ -183,7 +183,7 @@ comments: true
       Simran Chauhan, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, Misaki Hosoya, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, Hiroko Watanabe, Jeffrey Yepez.
     </span></details>
     <span><b>Towards revealing mantle heterogeneities with future directional geoneutrino detection. </b></span><br>
-    <span><a href="https://sites.uci.edu/neutrino2026/" target="_blank">Neutrino 2026</a>. UC Irvine, Irvine, USA. (June 2026, poster, in preparation).</span><br>
+    <span><a href="https://sites.uci.edu/neutrino2026/" target="_blank">XXXII International Conference on Neutrino Physics and Astrophysics (Neutrino 2026)</a>. UC Irvine, Irvine, USA. (June 2026, poster, in preparation).</span><br>
   </li>
 </ol>
 
