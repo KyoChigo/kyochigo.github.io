@@ -180,7 +180,7 @@ comments: true
       for OBD Consortium.
       </summary>
       <span>
-      Simran Chauhan, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, Misaki Hosoya, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, Hiroko Watanabe, Jeffrey Yepez.
+      Simran Chauhan, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, Misaki Hosoya, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takanobu Ono, Taichi Sakai, Jackson D. Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, Hiroko Watanabe, Jeffrey G. Yepez.
     </span></details>
     <span><b>Towards revealing mantle heterogeneities with future directional geoneutrino detection. </b></span><br>
     <span><a href="https://sites.uci.edu/neutrino2026/" target="_blank">XXXII International Conference on Neutrino Physics and Astrophysics (Neutrino 2026)</a>. UC Irvine, Irvine, USA. (June 2026, poster, in preparation).</span><br>
@@ -211,7 +211,19 @@ comments: true
       Takumi Araki, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takeru Ohno, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, David Vartanyan, Hiroko Watanabe, Jeffrey Yepez.
     </span></details>
     <span><b>Towards imaging large-scale mantle structures by directional geoneutrino detection with Ocean Bottom Detector. </b></span><br>
-    <span>KamLAND Collaboration Meeting 2025 Summer. Toyama International Conference Center, Toyama, Japan. (September 2025, oral).</span>
+    <span>KamLAND Collaboration Meeting 2025 Autumn. Toyama International Conference Center, Toyama, Japan. (September 2025, oral).</span>
+  </li>
+  <li style="color: #bbbbbb;">
+  <u>Zhihao Xu</u>, 
+  <details style="display: inline;">
+    <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
+    for OBD Consortium.
+    </summary>
+    <span>
+    Simran Chauhan, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, Misaki Hosoya, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takanobu Ono, Taichi Sakai, Jackson D. Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, Hiroko Watanabe, Jeffrey G. Yepez.
+  </span></details>
+  <span><b>Towards revealing mantle heterogeneities with future directional geoneutrino detection. </b></span><br>
+  <span>KamLAND Collaboration Meeting 2026 Spring. Online. (March 2026, oral).</span><br>
   </li>
 </ol>
 
