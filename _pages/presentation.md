@@ -128,7 +128,7 @@ comments: true
     <span><b>液体シンチレータ検出器を用いた地球大規模構造探査のための角度分解能評価. </b></span><br>
     <span><a href="https://www.icrr.u-tokyo.ac.jp/YMAP/event/conf2025/index.html" target="_blank">第10回宇宙素粒子若手の会秋の研究会</a>. 東京大学宇宙線研究所, 千葉県柏市. (2025年12月, 口頭).</span><br>
   </li>
-  <li style="color: #bbbbbb;">
+  <li>
     <u>Zhihao Xu</u>, 
     <details style="display: inline;">
       <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
@@ -137,8 +137,8 @@ comments: true
       <span>
       Takumi Araki, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, Misaki Hosoya, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takeru Ohno, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, Hiroko Watanabe, Jeffrey Yepez.
     </span></details>
-    <span><b>Experimental requirements for probing geochemical heterogeneities via directional geoneutrino detection.</b></span><br>
-    <span><a href="https://indico.global/event/15704/" target="_blank">9th International CYGNUS Workshop on Directional Recoil Detection</a>. Integrated Research Center of Kobe University, Kobe, Japan. (February 2026, oral, in preparation).</span><br>
+    <span><b>Towards probing geochemical heterogeneities via directional geoneutrino detection.</b></span><br>
+    <span><a href="https://indico.global/event/15704/" target="_blank">9th International CYGNUS Workshop on Directional Recoil Detection</a>. Integrated Research Center of Kobe University, Kobe, Japan. (February 2026, oral).</span><br>
   </li>
   <li style="color: #bbbbbb;">
     <u>許智豪</u>, 
