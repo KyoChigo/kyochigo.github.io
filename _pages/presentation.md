@@ -213,18 +213,6 @@ comments: true
     <span><b>Towards imaging large-scale mantle structures by directional geoneutrino detection with Ocean Bottom Detector. </b></span><br>
     <span>KamLAND Collaboration Meeting 2025 Autumn. Toyama International Conference Center, Toyama, Japan. (September 2025, oral).</span>
   </li>
-  <li style="color: #bbbbbb;">
-  <u>Zhihao Xu</u>, 
-  <details style="display: inline;">
-    <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
-    for OBD Consortium.
-    </summary>
-    <span>
-    Simran Chauhan, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, Misaki Hosoya, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takanobu Ono, Taichi Sakai, Jackson D. Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, Hiroko Watanabe, Jeffrey G. Yepez.
-  </span></details>
-  <span><b>Towards revealing mantle heterogeneities with future directional geoneutrino detection. </b></span><br>
-  <span>KamLAND Collaboration Meeting 2026 Spring. Online. (March 2026, oral).</span><br>
-  </li>
 </ol>
 
 </div>
