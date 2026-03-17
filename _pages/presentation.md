@@ -42,7 +42,7 @@ comments: true
 </div>
 
 <h5 id="conf">Public Presentations</h5>
-<h6 id="conf-2024">AY 2024 (April 2024 – March 2025, B4)</h6>
+<h6 id="conf-2025">2025</h6>
 
 <ol>
   <li>
@@ -57,10 +57,6 @@ comments: true
     <span><b>マントル地球ニュートリノ直接観測に向けた海洋底反ニュートリノ検出器の研究開発 13：到来方向感度を考慮した地球ニュートリノフラックス評価. </b></span><br>
     <span><a href="https://onsite.gakkai-web.net/jps/jps_search/2025sp/data2/html/programsj.html#:~:text=%E3%83%9E%E3%83%B3%E3%83%88%E3%83%AB%E5%9C%B0%E7%90%83%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%8E%E7%9B%B4%E6%8E%A5%E8%A6%B3%E6%B8%AC%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E6%B5%B7%E6%B4%8B%E5%BA%95%E5%8F%8D%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%8E%E6%A4%9C%E5%87%BA%E5%99%A8%E3%81%AE%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%2013%EF%BC%9A%E5%88%B0%E6%9D%A5%E6%96%B9%E5%90%91%E6%84%9F%E5%BA%A6%E3%82%92%E8%80%83%E6%85%AE%E3%81%97%E3%81%9F%E5%9C%B0%E7%90%83%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%8E%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%E8%A9%95%E4%BE%A1%E3%80%80%EF%BC%8820%E5%88%86%EF%BC%89" target="_blank">日本物理学会2025年春季大会</a>. 21aT1-4. オンライン. (2025年3月, 口頭).</span>
   </li>
-</ol>
-
-<h6 id="conf-2025">AY 2025 (April 2025 – March 2026, M1)</h6>
-<ol start="2">
   <li>
     <u>Zhihao Xu</u>, 
     <details style="display: inline;">
@@ -128,6 +124,10 @@ comments: true
     <span><b>液体シンチレータ検出器を用いた地球大規模構造探査のための角度分解能評価. </b></span><br>
     <span><a href="https://www.icrr.u-tokyo.ac.jp/YMAP/event/conf2025/index.html" target="_blank">第10回宇宙素粒子若手の会秋の研究会</a>. 東京大学宇宙線研究所, 千葉県柏市. (2025年12月, 口頭).</span><br>
   </li>
+</ol>
+
+<h6 id="conf-2026">2026</h6>
+<ol start="8">
   <li>
     <u>Zhihao Xu</u>, 
     <details style="display: inline;">
@@ -152,10 +152,6 @@ comments: true
     <span><b>マントル地球ニュートリノ直接観測に向けた海洋底反ニュートリノ検出器の研究開発 17：方向有感観測に基づく地球大規模構造探査のための実験条件評価. </b></span><br>
     <span><a href="https://www.jps.or.jp/activities/meetings/spring/spring_index.php" target="_blank">日本物理学会2026年春季大会</a>. 25pT2-4. オンライン. (2026年3月, 口頭, 準備中).</span><br>
   </li>
-</ol>
-
-<h6 id="conf-2026">AY 2026 (April 2025 – March 2026, M2)</h6>
-<ol start="10">
   <li style="color: #bbbbbb;">
     <u>Zhihao Xu</u>, Shuai Ouyang, William F. McDonough, Hiroko Watanabe, Mark Chen, Yang Zhang, Laura S. Keen.<br>
     <span><b>TBA. </b></span><br>
