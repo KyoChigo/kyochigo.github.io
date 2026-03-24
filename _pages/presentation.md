@@ -32,7 +32,7 @@ comments: true
 
 <ul class="list-unstyled no-margin-list">
   <li><a href="#conf" class="text-decoration-none">Public Presentations</a></li>
-  <li><a href="#internal" class="text-decoration-none">Internal Collaboration Presentations</a></li>
+  <li><a href="#internal" class="text-decoration-none">Internal Presentations</a></li>
 </ul>
 
 <div class="p-3 mb-3 border rounded bg-light text-muted">
@@ -183,7 +183,7 @@ comments: true
   </li>
 </ol>
 
-<h5 id="internal">Internal Collaboration Presentations</h5>
+<h5 id="internal">Internal Presentations</h5>
 <ol>
   <li>
     <u>Zhihao Xu</u>, 
