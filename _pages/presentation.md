@@ -140,7 +140,7 @@ comments: true
     <span><b>Towards probing geochemical heterogeneities via directional geoneutrino detection.</b></span><br>
     <span><a href="https://indico.global/event/15704/" target="_blank">9th International CYGNUS Workshop on Directional Recoil Detection</a>. Integrated Research Center of Kobe University, Kobe, Japan. (February 2026, oral).</span><br>
   </li>
-  <li style="color: #bbbbbb;">
+  <li>
     <u>許智豪</u>, 
     <details style="display: inline;">
       <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
@@ -150,7 +150,7 @@ comments: true
       荒木拓登, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A.A. Dornfest, Stephen T. Dye, John Graham, 細谷南咲, 井上邦雄, John G. Learned, Viacheslav A. Li, William F. McDonough, 大野建, 小野隆伸, 酒井汰一, Jackson Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, 渡辺寛子, Jeffrey Yepez.
     </span></details>
     <span><b>マントル地球ニュートリノ直接観測に向けた海洋底反ニュートリノ検出器の研究開発 17：方向有感観測に基づく地球大規模構造探査のための実験条件評価. </b></span><br>
-    <span><a href="https://www.jps.or.jp/activities/meetings/spring/spring_index.php" target="_blank">日本物理学会2026年春季大会</a>. 25pT2-4. オンライン. (2026年3月, 口頭, 準備中).</span><br>
+    <span><a href="https://jps2026s.gakkai-web.net/data/html/programsj.html#:~:text=%E3%83%9E%E3%83%B3%E3%83%88%E3%83%AB%E5%9C%B0%E7%90%83%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%8E%E7%9B%B4%E6%8E%A5%E8%A6%B3%E6%B8%AC%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E6%B5%B7%E6%B4%8B%E5%BA%95%E5%8F%8D%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%8E%E6%A4%9C%E5%87%BA%E5%99%A8%E3%81%AE%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%2017%EF%BC%9A%E6%96%B9%E5%90%91%E6%9C%89%E6%84%9F%E8%A6%B3%E6%B8%AC%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E5%9C%B0%E7%90%83%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%A7%8B%E9%80%A0%E6%8E%A2%E6%9F%BB%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%AE%9F%E9%A8%93%E6%9D%A1%E4%BB%B6%E8%A9%95%E4%BE%A1%E3%80%80%EF%BC%8820%E5%88%86%EF%BC%89" target="_blank">日本物理学会2026年春季大会</a>. 25pT2-4. オンライン. (2026年3月, 口頭).</span><br>
   </li>
   <li style="color: #bbbbbb;">
     <u>Zhihao Xu</u>, Shuai Ouyang, William F. McDonough, Hiroko Watanabe, Mark Chen, Yang Zhang, Laura S. Keen.<br>
