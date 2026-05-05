@@ -159,7 +159,7 @@ comments: true
   </li>
   <li style="color: #bbbbbb;">
     <u>Zhihao Xu</u>, Shuai Ouyang, William F. McDonough, Hiroko Watanabe, Mark Chen, Yang Zhang, Laura S. Keen.<br>
-    <span><b>TBA. </b></span><br>
+    <span><b>Estimating mantle heat-producing element abundances through global geoneutrino detections. </b></span><br>
     <span><a href="https://www.jpgu.org/meeting_e2026/" target="_blank">JpGU-AGU Joint Meeting 2026</a>. Makuhari Messe, Chiba, Japan. (May 2026, oral, in preparation).</span><br>
   </li>
   <li style="color: #bbbbbb;">
