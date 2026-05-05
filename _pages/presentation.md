@@ -155,7 +155,7 @@ comments: true
   <li style="color: #bbbbbb;">
     <u>Zhihao Xu</u>, Hiroko Watanabe, Motoyasu Ikeda.<br>
     <span><b>Prospects for geoneutrino measurements with potential Super-KamLAND project. </b>(tentative)</span><br>
-    <span>[KL-SK Joint Workshop: Future Planning and Synergies](https://www-kam2.icrr.u-tokyo.ac.jp/event/21/timetable/#20260523). Toyama, Japan. (May 2026, oral, in preparation).</span><br>
+    <span><a href="https://www-kam2.icrr.u-tokyo.ac.jp/event/21/timetable/#20260523" target="_blank">KL-SK Joint Workshop: Future Planning and Synergies</a>. Toyama, Japan. (May 2026, oral, in preparation).</span><br>
   </li>
   <li style="color: #bbbbbb;">
     <u>Zhihao Xu</u>, Shuai Ouyang, William F. McDonough, Hiroko Watanabe, Mark Chen, Yang Zhang, Laura S. Keen.<br>
