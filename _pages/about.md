@@ -26,7 +26,7 @@ comments: true
 </div>
 
 
-<p>I am a first year master's student from the Department of Physics, Graduation School of Science, Tohoku University.
+<p>I am a second year master's student from the Department of Physics, Graduation School of Science, Tohoku University.
 As a member of the KamLAND collaboration and the OBD Working Group, my work bridges particle physics and geoscience,
 reflecting a deep interest in interdisciplinary approaches to understanding both the Earth and the fundamental nature of neutrinos.</p>
 
