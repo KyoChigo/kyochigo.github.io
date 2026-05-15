@@ -192,7 +192,14 @@ comments: true
 <h5 id="colab">Collaborative Research (Co-author)</h5>
 <ol>
   <li>
-    <span>Simran Chauhan, Kunio Inoue, Hiroko Watanabe, Taichi Sakai, Takumi Araki, Takeru Ohno, Takanobu Ono, <u><b>Zhihao Xu</b></u>, William McDonough, Kenta Ueki, Natsue Abe, Noriaki Sakurai, Masanori Kyo, Eiichiro Araki, Takafumi Kasaya, Hiroshi Yoshida. </span><br>
+    Simran Chauhan, 
+    <details style="display: inline;">
+      <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
+      for OBD Group.
+      </summary>
+      <span>
+      Kunio Inoue, Hiroko Watanabe, Taichi Sakai, Takumi Araki, Takeru Ohno, Takanobu Ono, <u><b>Zhihao Xu</b></u>, William McDonough, Kenta Ueki, Natsue Abe, Noriaki Sakurai, Masanori Kyo, Eiichiro Araki, Takafumi Kasaya, Hiroshi Yoshida.
+    </span></details>
     <span><b>Development of Ocean Bottom Detector for Direct Measurement of Mantle Geoneutrinos 14: Simulation study of Ocean Bottom Detector and prototype development. </b></span><br>
     <span><a href="https://onsite.gakkai-web.net/jps/jps_search/2025sp/data2/html/programsj.html#j21aT1" target="_blank">2025 Spring Meeting, the Physical Society of Japan</a>. Online. (March 2025, oral).</span>
   </li>
