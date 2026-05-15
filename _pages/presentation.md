@@ -44,7 +44,7 @@ comments: true
 <h5 id="conf">Public Presentations</h5>
 <h6 id="conf-2025">2025</h6>
 
-<ol>
+<ol style="font-size: 1.0em; line-height: 1.6">
   <li>
     <u><b>許智豪</b></u>, 
     <details style="display: inline;">
@@ -127,7 +127,7 @@ comments: true
 </ol>
 
 <h6 id="conf-2026">2026</h6>
-<ol start="8">
+<ol start="8" style="font-size: 1.0em; line-height: 1.6">
   <li>
     <u><b>Zhihao Xu</b></u>, 
     <details style="display: inline;">
