@@ -228,7 +228,7 @@ comments: true
     <span><a href="https://onsite.gakkai-web.net/jps/jps_search/2025au/data2/html/programsj.html#j17pEK108:~:text=%E3%83%9E%E3%83%B3%E3%83%88%E3%83%AB%E5%9C%B0%E7%90%83%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%8E%E7%9B%B4%E6%8E%A5%E8%A6%B3%E6%B8%AC%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E6%B5%B7%E6%B4%8B%E5%BA%95%E5%8F%8D%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%8E%E6%A4%9C%E5%87%BA%E5%99%A8%E3%81%AE%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%2015%20%3A%20%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%82%AA%E3%82%A4%E3%83%AB%E5%80%99%E8%A3%9C%E3%81%AE%E6%80%A7%E8%83%BD%E8%A9%95%E4%BE%A1" target="_blank">日本物理学会第80回年度大会</a>. 17pEK108-7. 広島大学東広島キャンパス, 広島県東広島市. (2025年9月, 口頭).</span>
   </li>
   <li>
-    <span>Max A. A. Dornfest, John G. Learned, Jackson Seligman, Brian C. Crow, Jeffrey Yepez, Nathan Sibert, Viacheslav A. Li, Stephen T. Dye, Hiroko Watanabe, Takanobu Ono, <u><b>Zhihao Xu</b></u>, William F. McDonough. </span><br>
+    <span>Max A. A. Dornfest, John G. Learned, Jackson Seligman, Brian C. Crow, Jeffrey Yepez, Nathan Sibert, Viacheslav A. Li, Stephen T. Dye, Liz Kneale, Hiroko Watanabe, Takanobu Ono, <u><b>Zhihao Xu</b></u>, William F. McDonough. </span><br>
     <span><b>A NOBL Pursuit - Neutrino Ocean Bottom Laboratory. </b></span><br>
     <span><a href="https://indico.global/event/14476/contributions/136077/" target="_blank">Neutrino Geoscience 2025</a>. Kingston Marriott, Kingston, Canada. (October 2025, oral).</span>
   </li>
