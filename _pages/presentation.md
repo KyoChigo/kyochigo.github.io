@@ -190,6 +190,7 @@ comments: true
 
 
 <h5 id="colab">Collaborative Research (Co-author)</h5>
+<h6 id="colab-2025">2025</h6>
 <ol>
   <li>
     Simran Chauhan, 
@@ -237,6 +238,10 @@ comments: true
     <span><b>Novel method for neutrino directionality. </b></span><br>
     <span><a href="https://indico.global/event/14476/contributions/136076/" target="_blank">Neutrino Geoscience 2025</a>. Kingston Marriott, Kingston, Canada. (October 2025, oral).</span>
   </li>
+</ol>
+
+<h6 id="colab-2026">2026</h6>
+<ol start="6">
   <li style="color: #bbbbbb;">
     Misaki Hosoya, 
     <details style="display: inline;">
