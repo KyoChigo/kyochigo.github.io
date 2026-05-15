@@ -191,7 +191,7 @@ comments: true
 
 <h5 id="colab">Collaborative Research (Co-author)</h5>
 <h6 id="colab-2025">2025</h6>
-<ol>
+<ol style="font-size: 0.8em">
   <li>
     Simran Chauhan, 
     <details style="display: inline;">
@@ -241,7 +241,7 @@ comments: true
 </ol>
 
 <h6 id="colab-2026">2026</h6>
-<ol start="6">
+<ol start="6" style="font-size: 0.8em">
   <li style="color: #bbbbbb;">
     Misaki Hosoya, 
     <details style="display: inline;">
