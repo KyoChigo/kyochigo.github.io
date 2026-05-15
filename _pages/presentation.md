@@ -32,7 +32,7 @@ comments: true
 
 <ul class="list-unstyled no-margin-list">
   <li><a href="#conf" class="text-decoration-none">Public Presentations</a></li>
-  <li><a href="#colab" class="text-decoration-none">Collaborative Research (Co-author)</a></li>
+  <li><a href="#colab" class="text-decoration-none">Collaborative Research (as Co-author)</a></li>
 </ul>
 
 <div class="p-3 mb-3 border rounded bg-light text-muted">
@@ -189,7 +189,7 @@ comments: true
 </ol>
 
 
-<h5 id="colab">Collaborative Research (Co-author)</h5>
+<h5 id="colab">Collaborative Research (as Co-author)</h5>
 <h6 id="colab-2025">2025</h6>
 <ol style="font-size: 0.88em; line-height: 1.35">
   <li>
