@@ -6,7 +6,7 @@ comments: true
 ---
 <style>
   li {
-    margin-bottom: 5px;
+    margin-bottom: 3px;
   }
 
   .no-margin-list li {
