@@ -58,7 +58,7 @@ comments: true
     <span><a href="https://onsite.gakkai-web.net/jps/jps_search/2025sp/data2/html/programsj.html#:~:text=%E3%83%9E%E3%83%B3%E3%83%88%E3%83%AB%E5%9C%B0%E7%90%83%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%8E%E7%9B%B4%E6%8E%A5%E8%A6%B3%E6%B8%AC%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E6%B5%B7%E6%B4%8B%E5%BA%95%E5%8F%8D%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%8E%E6%A4%9C%E5%87%BA%E5%99%A8%E3%81%AE%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%2013%EF%BC%9A%E5%88%B0%E6%9D%A5%E6%96%B9%E5%90%91%E6%84%9F%E5%BA%A6%E3%82%92%E8%80%83%E6%85%AE%E3%81%97%E3%81%9F%E5%9C%B0%E7%90%83%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%8E%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%E8%A9%95%E4%BE%A1%E3%80%80%EF%BC%8820%E5%88%86%EF%BC%89" target="_blank">日本物理学会2025年春季大会</a>. 21aT1-4. オンライン. (2025年3月, 口頭).</span>
   </li>
   <li>
-    <u><b>Zhihao Xu</b>b></u>, 
+    <u><b>Zhihao Xu</b></u>, 
     <details style="display: inline;">
       <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
       for OBD Group.
