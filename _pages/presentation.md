@@ -234,7 +234,7 @@ comments: true
   </li>
   <li>
     <span>Jackson Seligman, Brian C. Crow, Max A. A. Dornfest, John G. Learned, Viacheslav A. Li, William F. McDonough, Nathen Sibert, Hiroko Watanabe, <u><b>Zhihao Xu</b></u>, Jeffrey Yepez. </span><br>
-    <span><b>A NOBL Pursuit - Neutrino Ocean Bottom Laboratory. </b></span><br>
+    <span><b>Novel method for neutrino directionality. </b></span><br>
     <span><a href="https://indico.global/event/14476/contributions/136076/" target="_blank">Neutrino Geoscience 2025</a>. Kingston Marriott, Kingston, Canada. (October 2025, oral).</span>
   </li>
   <li style="color: #bbbbbb;">
