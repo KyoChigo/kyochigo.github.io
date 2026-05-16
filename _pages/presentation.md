@@ -156,6 +156,7 @@ comments: true
     <u><b>Zhihao Xu</b></u>, Yota Hino, Hiroko Watanabe, Motoyasu Ikeda.<br>
     <span><b>Prospects for geoneutrino and supernova neutrino measurements with a future 10 kt-class liquid scintillator detector at Kamioka. </b></span><br>
     <span><a href="https://www-kam2.icrr.u-tokyo.ac.jp/event/21/timetable/#20260523" target="_blank">KL-SK Joint Workshop: Future Planning and Synergies</a>. Toyama, Japan. (May 2026, oral, in preparation).</span><br>
+    <span style="color: red">Invited Talk.</span>
   </li>
   <li style="color: #bbbbbb;">
     <u><b>Zhihao Xu</b></u>, 
