@@ -187,6 +187,11 @@ comments: true
     <span><b>Towards revealing mantle heterogeneities with future directional geoneutrino detection. </b></span><br>
     <span><a href="https://sites.uci.edu/neutrino2026/" target="_blank">XXXII International Conference on Neutrino Physics and Astrophysics (Neutrino 2026)</a>. UC Irvine, Irvine, USA. (June 2026, poster, in preparation).</span><br>
   </li>
+  <li style="color: #bbbbbb;">
+    <u><b>Zhihao Xu</b></u>, Misaki Hosoya, Taichi Sakai, William F. McDonough, Hiroko Watanabe.<br>
+    <span><b>Geoneutrinos as probes of mantle heat-producing element distributions and deep-mantle heterogeneity. </b>(tentative)</span><br>
+    <span><a href="https://sites.google.com/view/tmpg/shimonano2026" target="_blank">The 11th Meeting of the Study of Planetary Deep Interiors</a>. Shimonano-sato, Niyodo, Kochi. (August 2026, talk or poster, in preparation).</span><br>
+  </li>
 </ol>
 
 
