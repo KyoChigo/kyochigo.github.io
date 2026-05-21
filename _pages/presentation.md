@@ -248,7 +248,7 @@ comments: true
 
 <h6 id="colab-2026">2026</h6>
 <ol start="6" style="font-size: 0.88em; line-height: 1.35">
-  <li style="color: #bbbbbb;">
+  <li>
     Misaki Hosoya, 
     <details style="display: inline;">
       <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
