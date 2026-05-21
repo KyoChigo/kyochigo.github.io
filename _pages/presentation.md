@@ -152,13 +152,13 @@ comments: true
     <span><b>マントル地球ニュートリノ直接観測に向けた海洋底反ニュートリノ検出器の研究開発 17：方向有感観測に基づく地球大規模構造探査のための実験条件評価. </b></span><br>
     <span><a href="https://jps2026s.gakkai-web.net/data/html/programsj.html#:~:text=%E3%83%9E%E3%83%B3%E3%83%88%E3%83%AB%E5%9C%B0%E7%90%83%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%8E%E7%9B%B4%E6%8E%A5%E8%A6%B3%E6%B8%AC%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E6%B5%B7%E6%B4%8B%E5%BA%95%E5%8F%8D%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%8E%E6%A4%9C%E5%87%BA%E5%99%A8%E3%81%AE%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%2017%EF%BC%9A%E6%96%B9%E5%90%91%E6%9C%89%E6%84%9F%E8%A6%B3%E6%B8%AC%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E5%9C%B0%E7%90%83%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%A7%8B%E9%80%A0%E6%8E%A2%E6%9F%BB%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%AE%9F%E9%A8%93%E6%9D%A1%E4%BB%B6%E8%A9%95%E4%BE%A1%E3%80%80%EF%BC%8820%E5%88%86%EF%BC%89" target="_blank">日本物理学会2026年春季大会</a>. 25pT2-4. オンライン. (2026年3月, 口頭).</span><br>
   </li>
-  <li style="color: #bbbbbb;">
+  <li>
     <u><b>Zhihao Xu</b></u>, Yota Hino, Hiroko Watanabe, Motoyasu Ikeda.<br>
     <span><b>Prospects for geoneutrino and supernova neutrino measurements with a future 10 kt-class liquid scintillator detector at Kamioka. </b></span><br>
-    <span><a href="https://www-kam2.icrr.u-tokyo.ac.jp/event/21/timetable/#20260523" target="_blank">KL-SK Joint Workshop: Future Planning and Synergies</a>. Toyama, Japan. (May 2026, oral, in preparation).</span><br>
+    <span><a href="https://www-kam2.icrr.u-tokyo.ac.jp/event/21/timetable/#20260523" target="_blank">KL-SK Joint Workshop: Future Planning and Synergies</a>. Toyama, Japan. (May 2026, oral).</span><br>
     <span style="color: blue">Invited talk.</span>
   </li>
-  <li style="color: #bbbbbb;">
+  <li>
     <u><b>Zhihao Xu</b></u>, 
     <details style="display: inline;">
       <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
@@ -168,12 +168,12 @@ comments: true
       Simran Chauhan, Brian C. Crow, Max A. A. Dornfest, Stephen T. Dye, John Graham, Misaki Hosoya, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, Hiroko Watanabe, Jeffrey Yepez.
     </span></details>
     <span><b>Evaluating the measurability of LLSVP chemical composition by future geoneutrino detection. </b></span><br>
-    <span><a href="https://www.jpgu.org/meeting_e2026/" target="_blank">JpGU-AGU Joint Meeting 2026</a>. Makuhari Messe, Chiba, Japan. (May 2026, oral, in preparation).</span><br>
+    <span><a href="https://confit.atlas.jp/guide/event/jpgu2026/subject/MZZ49-05/advanced" target="_blank">JpGU-AGU Joint Meeting 2026</a>. Makuhari Messe, Chiba, Japan. (May 2026, oral).</span><br>
   </li>
-  <li style="color: #bbbbbb;">
+  <li>
     <u><b>Zhihao Xu</b></u>, Shuai Ouyang, William F. McDonough, Hiroko Watanabe, Mark Chen, Yang Zhang, Laura S. Keen.<br>
     <span><b>Estimating mantle heat-producing element abundances through global geoneutrino detections. </b></span><br>
-    <span><a href="https://www.jpgu.org/meeting_e2026/" target="_blank">JpGU-AGU Joint Meeting 2026</a>. Makuhari Messe, Chiba, Japan. (May 2026, oral, in preparation).</span><br>
+    <span><a href="https://confit.atlas.jp/guide/event/jpgu2026/subject/SGC46-05/advanced" target="_blank">JpGU-AGU Joint Meeting 2026</a>. Makuhari Messe, Chiba, Japan. (May 2026, oral).</span><br>
   </li>
   <li style="color: #bbbbbb;">
     <u><b>Zhihao Xu</b></u>, 
@@ -185,7 +185,7 @@ comments: true
       Simran Chauhan, Brian C. Crow, Max A. A. Dornfest, Stephen T. Dye, John Graham, Misaki Hosoya, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takanobu Ono, Taichi Sakai, Jackson D. Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, Hiroko Watanabe, Jeffrey G. Yepez.
     </span></details>
     <span><b>Towards revealing mantle heterogeneities with future directional geoneutrino detection. </b></span><br>
-    <span><a href="https://sites.uci.edu/neutrino2026/" target="_blank">XXXII International Conference on Neutrino Physics and Astrophysics (Neutrino 2026)</a>. UC Irvine, Irvine, USA. (June 2026, poster, in preparation).</span><br>
+    <span><a href="https://indico.global/event/15740/contributions/147612/" target="_blank">XXXII International Conference on Neutrino Physics and Astrophysics (Neutrino 2026)</a>. UC Irvine, Irvine, USA. (June 2026, poster, in preparation).</span><br>
   </li>
   <li style="color: #bbbbbb;">
     <u><b>Zhihao Xu</b></u>, Misaki Hosoya, William F. McDonough, Hiroko Watanabe.<br>
@@ -232,7 +232,7 @@ comments: true
       荒木拓登, Simran Chauhan, Lyla Choi, Brian C. Crow, Max A. A. Dornfest, Stephen T. Dye, John Graham, 井上邦雄, John G. Learned, Viacheslav A. Li, William F. McDonough, 大野建, 酒井汰一, Jackson Seligman, Nathan Sibert, David Vartanyan, 渡辺寛子, <u><b>許智豪</b></u>, Jeffrey Yepez.
     </span></details>
     <span><b>マントル地球ニュートリノ直接観測に向けた海洋底反ニュートリノ検出器の研究開発 15：バッファオイル候補の性能評価. </b></span><br>
-    <span><a href="https://onsite.gakkai-web.net/jps/jps_search/2025au/data2/html/programsj.html#j17pEK108:~:text=%E3%83%9E%E3%83%B3%E3%83%88%E3%83%AB%E5%9C%B0%E7%90%83%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%8E%E7%9B%B4%E6%8E%A5%E8%A6%B3%E6%B8%AC%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E6%B5%B7%E6%B4%8B%E5%BA%95%E5%8F%8D%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%8E%E6%A4%9C%E5%87%BA%E5%99%A8%E3%81%AE%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%2015%20%3A%20%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%82%AA%E3%82%A4%E3%83%AB%E5%80%99%E8%A3%9C%E3%81%AE%E6%80%A7%E8%83%BD%E8%A9%95%E4%BE%A1" target="_blank">日本物理学会第80回年度大会</a>. 17pEK108-7. 広島大学東広島キャンパス, 広島県東広島市. (2025年9月, 口頭).</span>
+    <span><a href="https://onsite.gakkai-web.net/jps/jps_search/2025au/data2/html/programsj.html#j17pEK108:~:text=%E3%83%9E%E3%83%B3%E3%83%88%E3%83%AB%E5%9C%B0%E7%90%83%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%8E%E7%9B%B4%E6%8E%A5%E8%A6%B3%E6%B8%AC%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E6%B5%B7%E6%B4%8B%E5%BA%95%E5%8F%8D%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%8E%E6%A4%9C%E5%87%BA%E5%99%A8%E3%81%AE%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%2015%20%3A%20%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%82%AA%E3%82%A4%E3%83%AB%E5%80%99%E8%A3%9C%E3%81%AE%E6%80%A7%E8%83%BD%E8%A9%95%E4%BE%A1" target="_blank">日本物理学会第80回年度大会</a>. 広島大学東広島キャンパス, 広島県東広島市. (2025年9月, 口頭).</span>
   </li>
   <li>
     <span>Max A. A. Dornfest, John G. Learned, Jackson Seligman, Brian C. Crow, Jeffrey Yepez, Nathan Sibert, Viacheslav A. Li, Stephen T. Dye, Liz Kneale, Hiroko Watanabe, Takanobu Ono, <u><b>Zhihao Xu</b></u>, William F. McDonough. </span><br>
@@ -258,7 +258,7 @@ comments: true
       Simran Chauhan, Brian C. Crow, Max A. A. Dornfest, Stephen T. Dye, John Graham, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, Hiroko Watanabe, <u><b>Zhihao Xu</b></u>, Jeffrey Yepez.
     </span></details>
     <span><b>Detecting geoneutrinos from the ocean floor: Overview of the Ocean Bottom Detector (OBD) project. </b></span><br>
-    <span><a href="https://www.jpgu.org/meeting_e2026/" target="_blank">JpGU-AGU Joint Meeting 2026</a>. Makuhari Messe, Chiba, Japan. (May 2026, poster, in preparation).</span><br>
+    <span><a href="https://confit.atlas.jp/guide/event/jpgu2026/subject/MZZ49-P01/advanced" target="_blank">JpGU-AGU Joint Meeting 2026</a>. Makuhari Messe, Chiba, Japan. (May 2026, poster, in preparation).</span><br>
   </li>
   <li style="color: #bbbbbb;">
     Misaki Hosoya, 
@@ -270,7 +270,7 @@ comments: true
       Simran Chauhan, Brian C. Crow, Max A. A. Dornfest, Stephen T. Dye, John Graham, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takanobu Ono, Taichi Sakai, Jackson D. Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, Hiroko Watanabe, <u><b>Zhihao Xu</b></u>, Jeffrey G. Yepez.
     </span></details>
     <span><b>Detecting geoneutrinos from the ocean floor: Overview of the Ocean Bottom Detector (OBD) project. </b></span><br>
-    <span><a href="https://sites.uci.edu/neutrino2026/" target="_blank">XXXII International Conference on Neutrino Physics and Astrophysics (Neutrino 2026)</a>. UC Irvine, Irvine, USA. (June 2026, poster, in preparation).</span><br>
+    <span><a href="https://indico.global/event/15740/contributions/147622/" target="_blank">XXXII International Conference on Neutrino Physics and Astrophysics (Neutrino 2026)</a>. UC Irvine, Irvine, USA. (June 2026, poster, in preparation).</span><br>
   </li>
 </ol>
 
