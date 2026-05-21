@@ -258,7 +258,7 @@ comments: true
       Simran Chauhan, Brian C. Crow, Max A. A. Dornfest, Stephen T. Dye, John Graham, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, Hiroko Watanabe, <u><b>Zhihao Xu</b></u>, Jeffrey Yepez.
     </span></details>
     <span><b>Detecting geoneutrinos from the ocean floor: Overview of the Ocean Bottom Detector (OBD) project. </b></span><br>
-    <span><a href="https://confit.atlas.jp/guide/event/jpgu2026/subject/MZZ49-P01/advanced" target="_blank">JpGU-AGU Joint Meeting 2026</a>. Makuhari Messe, Chiba, Japan. (May 2026, poster, in preparation).</span><br>
+    <span><a href="https://confit.atlas.jp/guide/event/jpgu2026/subject/MZZ49-P01/advanced" target="_blank">JpGU-AGU Joint Meeting 2026</a>. Makuhari Messe, Chiba, Japan. (May 2026, poster).</span><br>
   </li>
   <li style="color: #bbbbbb;">
     Misaki Hosoya, 
