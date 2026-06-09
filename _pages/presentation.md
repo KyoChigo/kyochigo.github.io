@@ -44,7 +44,24 @@ comments: true
 <h5 id="conf">Public Presentations</h5>
 
 <h6 id="conf-2026">2026</h6>
-<ol reversed start="14" style="font-size: 1.0em; line-height: 1.6">
+<ol reversed start="16" style="font-size: 1.0em; line-height: 1.6">
+  <li style="color: #bbbbbb;">
+    <u><b>許智豪</b></u>, 
+    <details style="display: inline;">
+      <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
+      for OBD Group.
+      </summary>
+      <span>
+      Simran Chauhan, Brian C. Crow, Max A. A. Dornfest, Stephen T. Dye, John Graham, 細谷南咲, 井上邦雄, John G. Learned, Viacheslav A. Li, William F. McDonough, 小野隆伸, 酒井汰一, Jackson Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, 渡辺寛子, Jeffrey Yepez.
+    </span></details>
+    <span><b>マントル地球ニュートリノ直接観測に向けた海洋底反ニュートリノ検出器の研究開発 19：TBA. </b></span><br>
+    <span><a href="https://www.jps.or.jp/activities/meetings/annual/annual-index.php" target="_blank">日本物理学会第81回年度大会</a>. 17pEK108-7. 東京大学駒場Ⅰキャンパス, 東京都目黒区. (2026年9月, 口頭).</span><br>
+  </li>
+  <li style="color: #bbbbbb;">
+    <u><b>許智豪</b></u>, 欧陽帥, William F. McDonough, 渡辺寛子, Mark Chen, 張洋, Laura S. Keen.<br>
+    <span><b>TBA. </b></span><br>
+    <span><a href="https://www.jps.or.jp/activities/meetings/annual/annual-index.php" target="_blank">日本物理学会第81回年度大会</a>. 17pEK108-7. 東京大学駒場Ⅰキャンパス, 東京都目黒区. (2026年9月, 口頭).</span><br>
+  </li>
   <li style="color: #bbbbbb;">
     <u><b>Zhihao Xu</b></u>, Misaki Hosoya, William F. McDonough, Taichi Sakai, Hiroko Watanabe.<br>
     <span><b>Geoneutrinos as probes of mantle heat-producing element distributions and deep-mantle heterogeneity. </b>(tentative)</span><br>
@@ -271,6 +288,18 @@ comments: true
     </span></details>
     <span><b>Detecting geoneutrinos from the ocean floor: Overview of the Ocean Bottom Detector (OBD) project. </b></span><br>
     <span><a href="https://indico.global/event/15740/contributions/147622/" target="_blank">XXXII International Conference on Neutrino Physics and Astrophysics (Neutrino 2026)</a>. University of California, Irvine, Irvine, USA. (June 2026, poster, in preparation).</span><br>
+  </li>
+  <li style="color: #bbbbbb;">
+    細谷南咲, 
+    <details style="display: inline;">
+      <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
+      for OBD Group.
+      </summary>
+      <span>
+      Simran Chauhan, Brian C. Crow, Max A. A. Dornfest, Stephen T. Dye, John Graham, 井上邦雄, John G. Learned, Viacheslav A. Li, William F. McDonough, 小野隆伸, 酒井汰一, Jackson Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, <u><b>渡辺寛子</b></u>, 許智豪, Jeffrey Yepez.
+    </span></details>
+    <span><b>マントル地球ニュートリノ直接観測に向けた海洋底反ニュートリノ検出器の研究開発 18：TBA. </b></span><br>
+    <span><a href="https://www.jps.or.jp/activities/meetings/annual/annual-index.php" target="_blank">日本物理学会第81回年度大会</a>. 17pEK108-7. 東京大学駒場Ⅰキャンパス, 東京都目黒区. (2026年9月, 口頭).</span><br>
   </li>
 </ol>
 
