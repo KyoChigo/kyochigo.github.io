@@ -35,7 +35,7 @@ comments: true
   <li><a href="#proceedings" class="text-decoration-none">Conference proceedings</a></li>
 </ul>
 
-<h5 id="journal">Journal papers</h5>
+<h5 id="journal">Journal Papers</h5>
 <ol>
   <li>
     <span><u><b>Z. Xu</b></u>, M. Hosoya, W. F. McDonough, T. Sakai, H. Watanabe. (submitted).</span><br>
