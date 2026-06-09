@@ -296,7 +296,7 @@ comments: true
       for OBD Group.
       </summary>
       <span>
-      Simran Chauhan, Brian C. Crow, Max A. A. Dornfest, Stephen T. Dye, John Graham, 井上邦雄, John G. Learned, Viacheslav A. Li, William F. McDonough, 小野隆伸, 酒井汰一, Jackson Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, <u><b>渡辺寛子</b></u>, 許智豪, Jeffrey Yepez.
+      Simran Chauhan, Brian C. Crow, Max A. A. Dornfest, Stephen T. Dye, John Graham, 井上邦雄, John G. Learned, Viacheslav A. Li, William F. McDonough, 小野隆伸, 酒井汰一, Jackson Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, 渡辺寛子, <u><b>許智豪</b></u>, Jeffrey Yepez.
     </span></details>
     <span><b>マントル地球ニュートリノ直接観測に向けた海洋底反ニュートリノ検出器の研究開発 18：TBA. </b></span><br>
     <span><a href="https://www.jps.or.jp/activities/meetings/annual/annual-index.php" target="_blank">日本物理学会第81回年度大会</a>. 東京大学駒場Ⅰキャンパス, 東京都目黒区. (2026年9月, 口頭).</span><br>
