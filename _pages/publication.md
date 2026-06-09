@@ -36,22 +36,37 @@ comments: true
 </ul>
 
 <h5 id="journal">Journal papers</h5>
-<i>Journal papers are cooking. Stay tuned!</i>
-<br><br><br>
-
-<h5 id="proceedings">Conference proceedings</h5>
 <ol>
   <li>
-    <span><u>Z. Xu</u>, 
+    <span><u><b>Z. Xu</b></u>, M. Hosoya, W. F. McDonough, T. Sakai, H. Watanabe. (submitted).</span><br>
+    <span><b>Mapping deep-mantle compositional heterogeneity using a directional geoneutrino detector. </b></span><br>
+  </li>
+  <li>
+    <span>T. Araki, 
+    <details style="display: inline;">
+      <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
+      et al.
+      </summary>
+      <span>
+      S. Chauhan, L. Choi, B. C. Crow, M. A. A. Dornfest, S. T. Dye, J. Graham, M. Hosoya, J. G. Learned, V. A. Li, W. F. McDonough, T. Ohno, T. Ono, T. Sakai, J. Seligman, N. Sibert, S.-W. Stradleigh, D. Vartanyan, H. Watanabe, <u><b>Z. Xu</b></u>, J. G. Yepez.
+    </span></details> (OBD Consortium). (submitted).</span><br>
+    <span><b>Deep-ocean application-specific neutrino experiment: a white paper. </b></span><br>
+  </li>
+</ol>
+
+<h5 id="proceedings">Conference Proceedings</h5>
+<ol>
+  <li>
+    <span><u><b>Z. Xu</b></u>, 
     <details style="display: inline;">
       <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
       et al.
       </summary>
       <span>
       T. Araki, S. Chauhan, B. C. Crow, M. A. A. Dornfest, S. T. Dye, J. Graham, M. Hosoya, K. Inoue, J. G. Learned, V. A. Li, W. F. McDonough, T. Ohno, T. Ono, T. Sakai, J. Seligman, N. Sibert, D. Vartanyan, H. Watanabe, J. Yepez.
-    </span></details> (OBD Consortium). (2026).</span><br>
+    </span></details> (OBD Consortium). (submitted).</span><br>
     <span><b>Towards imaging Earth’s large-scale structures by directional geoneutrino detection with Ocean Bottom Detector. </b></span><br>
-    <span><i>Proceedings of Science</i>, Proceedings of 19th International Conference on Topics in Astroparticle and Underground Physics (TAUP 2025). (submitted).</span>
+    <span><i>Proceedings of Science</i>, 511, 315.</span>
   </li>
 </ol>
 
