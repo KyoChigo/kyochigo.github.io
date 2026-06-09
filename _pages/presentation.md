@@ -49,7 +49,7 @@ comments: true
     <u><b>許智豪</b></u>, 
     <details style="display: inline;">
       <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
-      for OBD Group.
+      for OBD Consortium.
       </summary>
       <span>
       Simran Chauhan, Brian C. Crow, Max A. A. Dornfest, Stephen T. Dye, John Graham, 細谷南咲, 井上邦雄, John G. Learned, Viacheslav A. Li, William F. McDonough, 小野隆伸, 酒井汰一, Jackson Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, 渡辺寛子, Jeffrey Yepez.
