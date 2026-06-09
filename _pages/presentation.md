@@ -58,7 +58,7 @@ comments: true
     <span><a href="https://www.jps.or.jp/activities/meetings/annual/annual-index.php" target="_blank">日本物理学会第81回年度大会</a>. 東京大学駒場Ⅰキャンパス, 東京都目黒区. (2026年9月, 口頭).</span><br>
   </li>
   <li style="color: #bbbbbb;">
-    <u><b>許智豪</b></u>, 欧陽帥, William F. McDonough, 渡辺寛子, Mark Chen, 張洋, Laura S. Keen.<br>
+    <u><b>許智豪</b></u>, 欧陽帥, William F. McDonough, 渡辺寛子, 細谷南咲, Mark Chen, 張洋, Laura S. Keen.<br>
     <span><b>TBA. </b></span><br>
     <span><a href="https://www.jps.or.jp/activities/meetings/annual/annual-index.php" target="_blank">日本物理学会第81回年度大会</a>. 東京大学駒場Ⅰキャンパス, 東京都目黒区. (2026年9月, 口頭).</span><br>
   </li>
