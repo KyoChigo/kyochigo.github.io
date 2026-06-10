@@ -42,7 +42,7 @@ comments: true
     <span><b>Mapping deep-mantle compositional heterogeneity using a directional geoneutrino detector. </b></span><br>
   </li>
   <li>
-    <span>T. Araki, S. Chauhan, M. Hosoya, T. Ohno, T. Ono, H. Watanabe, <u><b>Z. Xu</b></u>, L. Choi, B. C. Crow, Max A. A. Dornfest, S. T. Dye, J. Graham, J. G. Learned, J. Seligman, N. Sibert, J. G. Yepez, V. A. Li, W. F. McDonough, T. Sakai, S.-W. Stradleigh, D. Vartanyan. (submitted).</span><br>
+    <span>T. Araki, S. Chauhan, M. Hosoya, T. Ohno, T. Ono, H. Watanabe, <u><b>Z. Xu</b></u>, L. Choi, B. C. Crow, M. A. A. Dornfest, S. T. Dye, J. Graham, J. G. Learned, J. Seligman, N. Sibert, J. G. Yepez, V. A. Li, W. F. McDonough, T. Sakai, S.-W. Stradleigh, D. Vartanyan. (submitted).</span><br>
     <span><b>Deep-ocean application-specific neutrino experiment: a white paper. </b></span><br>
   </li>
 </ol>
