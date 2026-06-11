@@ -282,7 +282,7 @@ comments: true
     <span><b>Detecting geoneutrinos from the ocean floor: Overview of the Ocean Bottom Detector (OBD) project. </b></span><br>
     <span><a href="https://confit.atlas.jp/guide/event/jpgu2026/subject/MZZ49-P01/advanced" target="_blank">JpGU-AGU Joint Meeting 2026</a>. MZZ49-P01. Makuhari Messe, Chiba, Japan. (May 2026, poster).</span><br>
   </li>
-  <li style="color: #bbbbbb;">
+  <li>
     Misaki Hosoya, 
     <details style="display: inline;">
       <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
@@ -292,13 +292,13 @@ comments: true
       Simran Chauhan, Brian C. Crow, Max A. A. Dornfest, Stephen T. Dye, John Graham, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takanobu Ono, Taichi Sakai, Jackson D. Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, Hiroko Watanabe, <u><b>Zhihao Xu</b></u>, Jeffrey G. Yepez.
     </span></details>
     <span><b>Detecting geoneutrinos from the ocean floor: Overview of the Ocean Bottom Detector (OBD) project. </b></span><br>
-    <span><a href="https://indico.global/event/15740/contributions/147622/" target="_blank">XXXII International Conference on Neutrino Physics and Astrophysics (Neutrino 2026)</a>. University of California, Irvine, Irvine, USA. (June 2026, poster, in preparation).</span><br>
+    <span><a href="https://indico.global/event/15740/contributions/147622/" target="_blank">XXXII International Conference on Neutrino Physics and Astrophysics (Neutrino 2026)</a>. University of California, Irvine, Irvine, USA. (June 2026, poster).</span><br>
   </li>
   <li style="color: #bbbbbb;">
     細谷南咲, 
     <details style="display: inline;">
       <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
-      for OBD Group.
+      for OBD Consortium.
       </summary>
       <span>
       Simran Chauhan, Brian C. Crow, Max A. A. Dornfest, Stephen T. Dye, John Graham, 井上邦雄, John G. Learned, Viacheslav A. Li, William F. McDonough, 小野隆伸, 酒井汰一, Jackson Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, 渡辺寛子, <u><b>許智豪</b></u>, Jeffrey Yepez.
