@@ -44,7 +44,7 @@ comments: true
 <h5 id="conf">Public Presentations</h5>
 
 <h6 id="conf-2026">2026</h6>
-<ol reversed start="16" style="font-size: 1.0em; line-height: 1.6">
+<ol reversed start="17" style="font-size: 1.0em; line-height: 1.6">
   <li style="color: #bbbbbb;">
     <u><b>許智豪</b></u>, 
     <details style="display: inline;">
@@ -63,9 +63,14 @@ comments: true
     <span><a href="https://www.jps.or.jp/activities/meetings/annual/annual-index.php" target="_blank">日本物理学会第81回年度大会</a>. 東京大学駒場Ⅰキャンパス, 東京都目黒区. (2026年9月, 口頭).</span><br>
   </li>
   <li style="color: #bbbbbb;">
+    <u><b>Zhihao Xu</b></u>, Koji Ishidoshiro.<br>
+    <span><b>Earth as a 4.6 Gyr dark matter detector: Constraints from Earth's thermal evolution. </b></span><br>
+    <span><a href="https://sites.google.com/view/tmpg/shimonano2026" target="_blank">11th Meeting of the Study of Planetary Deep Interiors</a>. Shimonano-sato, Niyodogawa, Japan. (August 2026, poster, in preparation).</span><br>
+  </li>
+  <li style="color: #bbbbbb;">
     <u><b>Zhihao Xu</b></u>, Misaki Hosoya, William F. McDonough, Taichi Sakai, Hiroko Watanabe.<br>
-    <span><b>Geoneutrinos as probes of mantle heat-producing element distributions and deep-mantle heterogeneity. </b>(tentative)</span><br>
-    <span><a href="https://sites.google.com/view/tmpg/shimonano2026" target="_blank">11th Meeting of the Study of Planetary Deep Interiors</a>. Shimonano-sato, Niyodogawa, Japan. (August 2026, talk or poster, in preparation).</span><br>
+    <span><b>Geoneutrinos as probes of mantle heat-producing element distributions and deep-mantle heterogeneity. </b></span><br>
+    <span><a href="https://sites.google.com/view/tmpg/shimonano2026" target="_blank">11th Meeting of the Study of Planetary Deep Interiors</a>. Shimonano-sato, Niyodogawa, Japan. (August 2026, oral, in preparation).</span><br>
   </li>
   <li>
     <u><b>Zhihao Xu</b></u>, 
