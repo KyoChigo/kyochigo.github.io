@@ -50,14 +50,7 @@ comments: true
 <h5 id="proceedings">Conference Proceedings</h5>
 <ol>
   <li>
-    <span><u><b>Z. Xu</b></u>, 
-    <details style="display: inline;">
-      <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
-      et al.
-      </summary>
-      <span>
-      T. Araki, S. Chauhan, B. C. Crow, M. A. A. Dornfest, S. T. Dye, J. Graham, M. Hosoya, K. Inoue, J. G. Learned, V. A. Li, W. F. McDonough, T. Ohno, T. Ono, T. Sakai, J. Seligman, N. Sibert, D. Vartanyan, H. Watanabe, J. Yepez.
-    </span></details> (OBD Consortium). (submitted).</span><br>
+    <span><u><b>Z. Xu</b></u>, T. Araki, S. Chauhan, B. C. Crow, M. A. A. Dornfest, S. T. Dye, J. Graham, M. Hosoya, K. Inoue, J. G. Learned, V. A. Li, W. F. McDonough, T. Ohno, T. Ono, T. Sakai, J. Seligman, N. Sibert, D. Vartanyan, H. Watanabe, J. Yepez. (OBD Consortium). (submitted).</span><br>
     <span><b>Towards imaging Earth’s large-scale structures by directional geoneutrino detection with Ocean Bottom Detector. </b></span><br>
     <span><i>Proceedings of Science</i>, 511, 315.</span>
   </li>
