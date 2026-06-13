@@ -12,6 +12,7 @@ comments: true
 
 <ul>
   <li><a href="https://kyochigo.com/" target="_blank">Zhihao Xu's Blog</a> (in Chinese)</li>
+  <li><a href="https://orcid.org/0009-0008-6580-0259" target="_blank">Zhihao Xu's ORCID</a></li>
   <li><a href="https://www.awa.tohoku.ac.jp/rcns/INDEX_TOP_eng.html" target="_blank">Recearch Center for Neutrino Science, Tohoku University</a></li>
   <li><a href="https://www.awa.tohoku.ac.jp/en/kamland/" target="_blank">KamLAND Experiment</a></li>
 </ul>
