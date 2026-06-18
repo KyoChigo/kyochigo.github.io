@@ -40,7 +40,7 @@ comments: true
   <li>
     <span><u><b>Z. Xu</b></u>, M. Hosoya, W. F. McDonough, T. Sakai, H. Watanabe. (submitted).</span><br>
     <span><b>Mapping deep-mantle compositional heterogeneity using a directional geoneutrino detector. </b></span><br>
-    <span><a href="https://arxiv.org/abs/2606.15680" target="_blank">arXiv:2606.15680</a></span>
+    <span>[<a href="https://arxiv.org/abs/2606.15680" target="_blank">arXiv:2606.15680</a>]</span>
   </li>
   <li>
     <span>T. Araki, S. Chauhan, M. Hosoya, T. Ohno, T. Ono, H. Watanabe, <u><b>Z. Xu</b></u>, L. Choi, B. C. Crow, M. A. A. Dornfest, J. Graham, J. G. Learned, J. Seligman, N. Sibert, J. G. Yepez, V. A. Li, W. F. McDonough, T. Sakai, S.-W. Stradleigh, D. Vartanyan. (submitted).</span><br>
@@ -53,7 +53,8 @@ comments: true
   <li>
     <span><u><b>Z. Xu</b></u>, T. Araki, S. Chauhan, B. C. Crow, M. A. A. Dornfest, S. T. Dye, J. Graham, M. Hosoya, K. Inoue, J. G. Learned, V. A. Li, W. F. McDonough, T. Ohno, T. Ono, T. Sakai, J. Seligman, N. Sibert, D. Vartanyan, H. Watanabe, J. Yepez. (OBD Consortium). (submitted).</span><br>
     <span><b>Towards imaging Earth’s large-scale structures by directional geoneutrino detection with Ocean Bottom Detector. </b></span><br>
-    <span><a href="https://arxiv.org/abs/2606.13273" target="_blank">arXiv:2606.13273</a></span>
+    <span>Submitted to <i>Proceedings of Science</i> (Presented at XIX International Conference on Topics in Astroparticle and Underground Physics (TAUP 2025)).</span>
+    <span>[<a href="https://arxiv.org/abs/2606.13273" target="_blank">arXiv:2606.13273</a>]</span>
   </li>
 </ol>
 
