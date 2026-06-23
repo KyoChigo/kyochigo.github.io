@@ -43,8 +43,9 @@ comments: true
     <span>[<a href="https://arxiv.org/abs/2606.15680" target="_blank">arXiv:2606.15680</a>]</span>
   </li>
   <li>
-    <span>T. Araki, S. Chauhan, M. Hosoya, T. Ohno, T. Ono, H. Watanabe, <u><b>Z. Xu</b></u>, L. Choi, B. C. Crow, M. A. A. Dornfest, J. Graham, J. G. Learned, J. Seligman, N. Sibert, J. G. Yepez, V. A. Li, W. F. McDonough, T. Sakai, S.-W. Stradleigh, D. Vartanyan. (submitted).</span><br>
+    <span>T. Araki, S. Chauhan, L. Choi, B. C. Crow, M. A. A. Dornfest, J. Graham, M. Hosoya, J. G. Learned, V. A. Li, W. F. McDonough, T. Ohno, T. Ono, T. Sakai, J. Seligman, N. Sibert, S.-W. Stradleigh, D. Vartanyan, H. Watanabe, <u><b>Z. Xu</b></u>, J. G. Yepez. (submitted).</span><br>
     <span><b>Deep-ocean application-specific neutrino experiment: a white paper. </b></span><br>
+    <span>[<a href="https://arxiv.org/abs/2606.20780" target="_blank">arXiv:2606.20780</a>]</span>
   </li>
 </ol>
 
