@@ -50,6 +50,7 @@ comments: true
   <li>
     <span>D. Chernyak, et al. (KamLAND Collaboration). (submitted).</span><br>
     <span><b>Search for diffuse supernova neutrino background in the full KamLAND dataset with neural-network-based event classification. </b></span><br>
+    <span>[<a href="https://arxiv.org/abs/2606.29381" target="_blank">arXiv:2606.29381</a>]</span>
   </li>
 </ol>
 
