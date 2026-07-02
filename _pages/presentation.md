@@ -277,6 +277,11 @@ comments: true
     <span><b>Detecting geoneutrinos from the ocean floor: Overview of the Ocean Bottom Detector (OBD) project. </b></span><br>
     <span><a href="https://indico.global/event/15740/contributions/147622/" target="_blank">XXXII International Conference on Neutrino Physics and Astrophysics (Neutrino 2026)</a>. University of California, Irvine, Irvine, USA. (June 2026, poster).</span><br>
   </li>
+  <li style="color: #bbbbbb;">
+    <span>石徹白晃治, <u><b>許智豪</b></u>. </span><br>
+    <span><b>地球熱史と固体内核成長を用いた暗黒物質加熱の制限. </b></span><br>
+    <span><a href="https://www.jps.or.jp/activities/meetings/annual/annual-index.php" target="_blank">日本物理学会第81回年度大会</a>. 東京大学駒場キャンパス, 東京都目黒区. (2026年9月, 口頭, 準備中).</span>
+  </li>
 </ol>
 
 </div>
