@@ -80,6 +80,7 @@ reflecting a deep interest in interdisciplinary approaches to understanding both
 <ul>
   <li>The Physical Society of Japan (JPS)</li>
   <li>Japan Geoscience Union (JpGU)</li>
+  <li>The Geochemical Society of Japan (GSJ)</li>
 </ul>
 
 
