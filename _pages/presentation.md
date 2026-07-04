@@ -279,7 +279,7 @@ comments: true
   </li>
   <li style="color: #bbbbbb;">
     <span>石徹白晃治, <u><b>許智豪</b></u>. </span><br>
-    <span><b>地球熱史と固体内核成長を用いた暗黒物質加熱の制限. </b></span><br>
+    <span><b>地球熱史を用いた暗黒物質加熱の制限. </b></span><br>
     <span><a href="https://www.jps.or.jp/activities/meetings/annual/annual-index.php" target="_blank">日本物理学会第81回年度大会</a>. 東京大学駒場キャンパス, 東京都目黒区. (2026年9月, 口頭, 準備中).</span>
   </li>
 </ol>
