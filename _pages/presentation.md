@@ -44,7 +44,12 @@ comments: true
 <h5 id="conf">Public Presentations</h5>
 
 <h6 id="conf-2026">2026</h6>
-<ol reversed start="15" style="font-size: 1.0em; line-height: 1.6">
+<ol reversed start="16" style="font-size: 1.0em; line-height: 1.6">
+  <li style="color: #bbbbbb;">
+    <u><b>許智豪</b></u>, 細谷南咲, William F. McDonough, 酒井汰一, 渡辺寛子.<br>
+    <span><b>TBD. </b></span><br>
+    <span><a href="https://www.geochem.jp/cf/2026conf/" target="_blank">日本地球化学会第73回年会</a>. 京都大学吉田キャンパス, 京都府京都市. (2026年9月, 口頭, 準備中).</span><br>
+  </li>
   <li style="color: #bbbbbb;">
     <u><b>Zhihao Xu</b></u>, Koji Ishidoshiro.<br>
     <span><b>Earth as a 4.6 Gyr dark matter detector: Constraints from Earth's thermal evolution. </b></span><br>
