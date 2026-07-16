@@ -46,19 +46,19 @@ comments: true
 <h6 id="conf-2026">2026</h6>
 <ol reversed start="16" style="font-size: 1.0em; line-height: 1.6">
   <li style="color: #bbbbbb;">
-    <u><b>許智豪</b></u>, 細谷南咲, William F. McDonough, 酒井汰一, 渡辺寛子.<br>
-    <span><b>TBD. </b></span><br>
+    <u><b>許智豪</b></u>, 細谷南咲, William F. McDonough, 欧陽帥, 酒井汰一, 渡辺寛子, 張洋.<br>
+    <span><b>LLVPは放射性元素に富むのか？地球ニュートリノで探る深部マントル. </b></span><br>
     <span><a href="https://www.geochem.jp/cf/2026conf/" target="_blank">日本地球化学会第73回年会</a>. 京都大学吉田キャンパス, 京都府京都市. (2026年9月, 口頭, 準備中).</span><br>
   </li>
   <li style="color: #bbbbbb;">
-    <u><b>Zhihao Xu</b></u>, Misaki Hosoya, William F. McDonough, Taichi Sakai, Hiroko Watanabe.<br>
+    <u><b>許智豪</b></u>, 細谷南咲, William F. McDonough, 欧陽帥, 酒井汰一, 渡辺寛子, 張洋.<br>
     <span><b>Geoneutrinos as probes of mantle heat-producing element distributions and deep-mantle heterogeneity. </b></span><br>
-    <span><a href="https://sites.google.com/view/tmpg/shimonano2026" target="_blank">11th Meeting of the Study of Planetary Deep Interiors</a>. Shimonano-sato, Niyodogawa, Japan. (August 2026, oral, in preparation).</span><br>
+    <span><a href="https://sites.google.com/view/tmpg/shimonano2026" target="_blank">第11回惑星深部研究会</a>. 山村自然楽校しもなの郷, 高知県仁淀川町. (2026年8月, 口頭, 準備中).</span><br>
   </li>
   <li style="color: #bbbbbb;">
-    <u><b>Zhihao Xu</b></u>, Koji Ishidoshiro.<br>
+    <u><b>許智豪</b></u>, 石徹白晃治.<br>
     <span><b>Earth as a 4.6 Gyr dark matter detector: Constraints from Earth's thermal evolution. </b></span><br>
-    <span><a href="https://sites.google.com/view/tmpg/shimonano2026" target="_blank">11th Meeting of the Study of Planetary Deep Interiors</a>. Shimonano-sato, Niyodogawa, Japan. (August 2026, poster, in preparation).</span><br>
+    <span><a href="https://sites.google.com/view/tmpg/shimonano2026" target="_blank">第11回惑星深部研究会</a>. 山村自然楽校しもなの郷, 高知県仁淀川町. (2026年8月, ポスター, 準備中).</span><br>
   </li>
   <li>
     <u><b>Zhihao Xu</b></u>, 
