@@ -52,12 +52,12 @@ comments: true
   </li>
   <li style="color: #bbbbbb;">
     <u><b>許智豪</b></u>, 細谷南咲, William F. McDonough, 欧陽帥, 酒井汰一, 渡辺寛子, 張洋.<br>
-    <span><b>Geoneutrinos as probes of mantle heat-producing element distributions and deep-mantle heterogeneity. </b></span><br>
+    <span><b>地球ニュートリノで探るマントルの放射性元素分布と深部マントルの不均質性. </b></span><br>
     <span><a href="https://sites.google.com/view/tmpg/shimonano2026" target="_blank">第11回惑星深部研究会</a>. 山村自然楽校しもなの郷, 高知県仁淀川町. (2026年8月, 口頭, 準備中).</span><br>
   </li>
   <li style="color: #bbbbbb;">
     <u><b>許智豪</b></u>, 石徹白晃治.<br>
-    <span><b>Earth as a 4.6 Gyr dark matter detector: Constraints from Earth's thermal evolution. </b></span><br>
+    <span><b>地球を46億年の検出器として読み解く：熱進化から探る暗黒物質. </b></span><br>
     <span><a href="https://sites.google.com/view/tmpg/shimonano2026" target="_blank">第11回惑星深部研究会</a>. 山村自然楽校しもなの郷, 高知県仁淀川町. (2026年8月, ポスター, 準備中).</span><br>
   </li>
   <li>
