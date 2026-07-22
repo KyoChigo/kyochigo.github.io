@@ -44,7 +44,13 @@ comments: true
 <h5 id="conf">Public Presentations</h5>
 
 <h6 id="conf-2026">2026</h6>
-<ol reversed start="16" style="font-size: 1.0em; line-height: 1.6">
+<ol reversed start="17" style="font-size: 1.0em; line-height: 1.6">
+  <li>
+    <u><b>Zhihao Xu</b></u>.<br>
+    <span><b>TBD. </b></span><br>
+    <span>International Workshop on Geoneutrinos 2026. Earthquake Research Institute, The University of Tokyo, Tokyo, Japan. (December 2026, oral).</span><br>
+    <span style="color: red">Invited talk.</span>
+  </li>
   <li style="color: #bbbbbb;">
     <u><b>許智豪</b></u>, 細谷南咲, William F. McDonough, 欧陽帥, 酒井汰一, 渡辺寛子, 張洋.<br>
     <span><b>LLVPは放射性元素に富むのか？地球ニュートリノで探る深部マントル. </b></span><br>
