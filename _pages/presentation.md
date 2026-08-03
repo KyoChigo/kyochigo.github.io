@@ -57,7 +57,7 @@ comments: true
     <span><a href="https://www.geochem.jp/cf/2026conf/" target="_blank">日本地球化学会第73回年会</a>. 京都大学吉田キャンパス, 京都府京都市. (2026年9月, 口頭, 準備中).</span><br>
   </li>
   <li>
-    <u><b>Zhihao</b></u>, Misaki Hosoya, William F. McDonough, Shuai Ouyang, Taichi Sakai, Hiroko Watanabe, Yang Zhang.<br>
+    <u><b>Zhihao Xu</b></u>, Misaki Hosoya, William F. McDonough, Shuai Ouyang, Taichi Sakai, Hiroko Watanabe, Yang Zhang.<br>
     <span><b>Geoneutrinos as probes of mantle heat-producing element distributions and deep-mantle heterogeneity. </b></span><br>
     <span><a href="https://sites.google.com/view/tmpg/shimonano2026" target="_blank">11th Meeting of the Study of Planetary Deep Interiors</a>. Shimonano-Sato, Niyodogawa, Japan. (August 2026, oral).</span><br>
   </li>
