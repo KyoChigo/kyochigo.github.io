@@ -57,9 +57,9 @@ comments: true
     <span><a href="https://ifcen.sysu.edu.cn/nu-geoscience2026/" target="_blank">Neutrino Geoscience 2026</a>. Sun Yat-sen University (Zhuhai Campus), Zhuhai, China. (November 2026, oral, in preparation).</span><br>
   </li>
   <li style="color: #bbbbbb;">
-    <u><b>Zhihao Xu</b></u>.<br>
+    <u><b>許智豪</b></u>.<br>
     <span><b>TBD. </b></span><br>
-    <span>KL-SK Joint Workshop. Tohoku University Tokyo Office, Tokyo, Japan. (October 2026, oral, in preparation).</span><br>
+    <span>第2回SK+KL将来検討ワークショップ. 東北大学東京オフィス, 東京都千代田区. (2026年10月, 口頭, 準備中).</span><br>
     <span style="color: red">Invited talk.</span>
   </li>
   <li style="color: #bbbbbb;">
