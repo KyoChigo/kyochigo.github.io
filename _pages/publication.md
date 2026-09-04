@@ -1,4 +1,4 @@
----
+<img width="455" height="88" alt="image" src="https://github.com/user-attachments/assets/e89cd994-86cf-4927-9882-af7f06371612" />---
 layout: page
 title: Publications
 permalink: /publication
@@ -57,10 +57,11 @@ comments: true
 <h5 id="proceedings">Conference Proceedings</h5>
 <ol>
   <li>
-    <span><u><b>Z. Xu</b></u>, T. Araki, S. Chauhan, B. C. Crow, M. A. A. Dornfest, S. T. Dye, J. Graham, M. Hosoya, K. Inoue, J. G. Learned, V. A. Li, W. F. McDonough, T. Ohno, T. Ono, T. Sakai, J. Seligman, N. Sibert, D. Vartanyan, H. Watanabe, J. Yepez. (OBD Consortium). (submitted).</span><br>
+    <span><u><b>Z. Xu</b></u>, T. Araki, S. Chauhan, B. C. Crow, M. A. A. Dornfest, S. T. Dye, J. Graham, M. Hosoya, K. Inoue, J. G. Learned, V. A. Li, W. F. McDonough, T. Ohno, T. Ono, T. Sakai, J. Seligman, N. Sibert, D. Vartanyan, H. Watanabe, J. Yepez. (OBD Consortium). (2026).</span><br>
     <span><b>Towards imaging Earth’s large-scale structures by directional geoneutrino detection with Ocean Bottom Detector. </b></span><br>
-    <span>Presented at XIX International Conference on Topics in Astroparticle and Underground Physics (TAUP 2025).</span><br>
-    <span>[<a href="https://arxiv.org/abs/2606.13273" target="_blank">arXiv:2606.13273</a>]</span>
+    <span><i>Proceedings of Scicience</i>. 511, 315.</span><br>
+    <span>Proceedings of XIX International Conference on Topics in Astroparticle and Underground Physics (TAUP 2025).</span><br>
+    <span>doi: <a href="http://dx.doi.org/10.22323/1.511.0315" target="_blank">10.22323/1.511.0315</a></span>
   </li>
 </ol>
 
