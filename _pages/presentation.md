@@ -57,15 +57,15 @@ comments: true
     <span><a href="https://ifcen.sysu.edu.cn/nu-geoscience2026/" target="_blank">Neutrino Geoscience 2026</a>. Sun Yat-sen University (Zhuhai Campus), Zhuhai, China. (November 2026, oral, in preparation).</span><br>
   </li>
   <li style="color: #bbbbbb;">
-    <u><b>許智豪</b></u>.<br>
+    <u><b>許智豪</b></u>, 佐藤伸洋, 日野陽太, 池田一得, 渡辺寛子.<br>
     <span><b>TBD. </b></span><br>
-    <span>第2回SK+KL将来検討ワークショップ. 東北大学東京オフィス, 東京都千代田区. (2026年10月, 口頭, 準備中).</span><br>
+    <span><a href="https://www.lowbg.org/ugrp/ws/skkl2nd/index.html" target="_blank">第2回SK+KL将来検討ワークショップ</a>. 東北大学東京オフィス, 東京都千代田区. (2026年10月, 口頭, 準備中).</span><br>
     <span style="color: red">Invited talk.</span>
   </li>
-  <li style="color: #bbbbbb;">
+  <li>
     <u><b>許智豪</b></u>, 細谷南咲, William F. McDonough, 欧陽帥, 酒井汰一, 渡辺寛子, 張洋.<br>
     <span><b>LLVPは放射性元素に富むのか？地球ニュートリノで探る深部マントル. </b></span><br>
-    <span><a href="https://www.geochem.jp/cf/2026conf/" target="_blank">日本地球化学会第73回年会</a>. 京都大学吉田キャンパス, 京都府京都市. (2026年9月, 口頭, 準備中).</span><br>
+    <span><a href="https://www.geochem.jp/cf/2026conf/" target="_blank">日本地球化学会第73回年会</a>. 京都大学吉田キャンパス, 京都府京都市. (2026年9月, 口頭).</span><br>
   </li>
   <li>
     <u><b>Zhihao Xu</b></u>, Misaki Hosoya, William F. McDonough, Shuai Ouyang, Taichi Sakai, Hiroko Watanabe, Yang Zhang.<br>
@@ -299,10 +299,10 @@ comments: true
     <span><b>Detecting geoneutrinos from the ocean floor: Overview of the Ocean Bottom Detector (OBD) project. </b></span><br>
     <span><a href="https://indico.global/event/15740/contributions/147622/" target="_blank">XXXII International Conference on Neutrino Physics and Astrophysics (Neutrino 2026)</a>. University of California, Irvine, Irvine, USA. (June 2026, poster).</span><br>
   </li>
-  <li style="color: #bbbbbb;">
+  <li>
     <span>石徹白晃治, <u><b>許智豪</b></u>. </span><br>
     <span><b>地球熱史を用いた暗黒物質加熱の制限. </b></span><br>
-    <span><a href="https://www.jps.or.jp/activities/meetings/annual/annual-index.php" target="_blank">日本物理学会第81回年度大会</a>. 東京大学駒場キャンパス, 東京都目黒区. (2026年9月, 口頭, 準備中).</span>
+    <span><a href="https://www.jps.or.jp/activities/meetings/annual/annual-index.php" target="_blank">日本物理学会第81回年度大会</a>. 東京大学駒場キャンパス, 東京都目黒区. (2026年9月, 口頭).</span>
   </li>
 </ol>
 
