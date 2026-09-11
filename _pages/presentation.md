@@ -57,8 +57,8 @@ comments: true
     <span><a href="https://ifcen.sysu.edu.cn/nu-geoscience2026/" target="_blank">Neutrino Geoscience 2026</a>. Sun Yat-sen University (Zhuhai Campus), Zhuhai, China. (November 2026, oral, in preparation).</span><br>
   </li>
   <li style="color: #bbbbbb;">
-    <u><b>許智豪</b></u>, 佐藤伸洋, 日野陽太, 池田一得, 渡辺寛子.<br>
-    <span><b>TBD. </b></span><br>
+    <u><b>許智豪</b></u>, 細谷南咲, 佐藤伸洋, 日野陽太, 池田一得, 渡辺寛子.<br>
+    <span><b>方向有感観測による地球ニュートリノ観測への展望. </b></span><br>
     <span><a href="https://www.lowbg.org/ugrp/ws/skkl2nd/index.html" target="_blank">第2回SK+KL将来検討ワークショップ</a>. 東北大学東京オフィス, 東京都千代田区. (2026年10月, 口頭, 準備中).</span><br>
     <span style="color: red">Invited talk.</span>
   </li>
