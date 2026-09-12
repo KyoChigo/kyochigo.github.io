@@ -92,7 +92,7 @@ comments: true
   <li>
     <u><b>Zhihao Xu</b></u>, Shuai Ouyang, William F. McDonough, Hiroko Watanabe, Mark Chen, Yang Zhang, Laura S. Keen.<br>
     <span><b>Estimating mantle heat-producing element abundances through global geoneutrino detections. </b></span><br>
-    <span><a href="https://confit.atlas.jp/guide/event/jpgu2026/subject/SGC46-05/advanced" target="_blank">JpGU-AGU Joint Meeting 2026</a>. SGC46-05. Makuhari Messe, Chiba, Japan. (May 2026, oral).</span><br>
+    <span><a href="https://pub.confit.atlas.jp/en/event/jpgu2026/presentation/SGC46-05" target="_blank">JpGU-AGU Joint Meeting 2026</a>. SGC46-05. Makuhari Messe, Chiba, Japan. (May 2026, oral).</span><br>
   </li>
   <li>
     <u><b>Zhihao Xu</b></u>, 
@@ -104,7 +104,7 @@ comments: true
       Simran Chauhan, Brian C. Crow, Max A. A. Dornfest, Stephen T. Dye, John Graham, Misaki Hosoya, Kunio Inoue, John G. Learned, Viacheslav A. Li, William F. McDonough, Takanobu Ono, Taichi Sakai, Jackson Seligman, Nathan Sibert, Shang-Wen Stradleigh, David Vartanyan, Hiroko Watanabe, Jeffrey Yepez.
     </span></details>
     <span><b>Evaluating the measurability of LLSVP chemical composition by future geoneutrino detection. </b></span><br>
-    <span><a href="https://confit.atlas.jp/guide/event/jpgu2026/subject/MZZ49-05/advanced" target="_blank">JpGU-AGU Joint Meeting 2026</a>. MZZ49-05. Makuhari Messe, Chiba, Japan. (May 2026, oral).</span><br>
+    <span><a href="https://pub.confit.atlas.jp/en/event/jpgu2026/presentation/MZZ49-05" target="_blank">JpGU-AGU Joint Meeting 2026</a>. MZZ49-05. Makuhari Messe, Chiba, Japan. (May 2026, oral).</span><br>
   </li>
   <li>
     <u><b>Zhihao Xu</b></u>, Yota Hino, Hiroko Watanabe, Motoyasu Ikeda.<br>
