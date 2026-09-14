@@ -64,7 +64,7 @@ comments: true
   </li>
   <li>
     <u><b>許智豪</b></u>, 細谷南咲, William F. McDonough, 欧陽帥, 酒井汰一, 渡辺寛子, 張洋.<br>
-    <span><b>LLVPsは放射性元素に富むのか？地球ニュートリ ノで探る深部マントル. </b></span><br>
+    <span><b>LLVPsは放射性元素に富むのか？地球ニュートリノで探る深部マントル. </b></span><br>
     <span><a href="https://www.geochem.jp/cf/2026conf/" target="_blank">日本地球化学会第73回年会</a>. 京都大学吉田キャンパス, 京都府京都市. (2026年9月, 口頭).</span><br>
   </li>
   <li>
