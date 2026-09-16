@@ -48,7 +48,7 @@ comments: true
   <li style="color: #bbbbbb;">
     <u><b>Zhihao Xu</b></u>.<br>
     <span><b>TBD. </b></span><br>
-    <span>International Workshop on Geoneutrinos 2026. Earthquake Research Institute, The University of Tokyo, Tokyo, Japan. (December 2026, oral, in preparation).</span><br>
+    <span>Geoneutrino Science: Bridging Particle Physics and Earth Sciences. Earthquake Research Institute, The University of Tokyo, Tokyo, Japan. (December 2026, oral, in preparation).</span><br>
     <span style="color: red">Invited talk.</span>
   </li>
   <li style="color: #bbbbbb;">
