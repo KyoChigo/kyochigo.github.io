@@ -65,7 +65,7 @@ comments: true
   <li>
     <u><b>許智豪</b></u>, 細谷南咲, William F. McDonough, 欧陽帥, 酒井汰一, 渡辺寛子, 張洋.<br>
     <span><b>LLVPsは放射性元素に富むのか？地球ニュートリノで探る深部マントル. </b></span><br>
-    <span><a href="https://www.geochem.jp/cf/2026conf/" target="_blank">日本地球化学会第73回年会</a>. 京都大学吉田キャンパス, 京都府京都市. (2026年9月, 口頭).</span><br>
+    <span><a href="https://www.geochem.jp/cf/2026conf/" target="_blank">日本地球化学会第73回年会</a>. PR0228. 京都大学吉田キャンパス, 京都府京都市. (2026年9月, 口頭).</span><br>
   </li>
   <li>
     <u><b>Zhihao Xu</b></u>, Misaki Hosoya, William F. McDonough, Shuai Ouyang, Taichi Sakai, Hiroko Watanabe, Yang Zhang.<br>
@@ -302,7 +302,7 @@ comments: true
   <li>
     <span>石徹白晃治, <u><b>許智豪</b></u>. </span><br>
     <span><b>地球熱史を用いた暗黒物質加熱の制限. </b></span><br>
-    <span><a href="https://www.jps.or.jp/activities/meetings/annual/annual-index.php" target="_blank">日本物理学会第81回年度大会</a>. 東京大学駒場キャンパス, 東京都目黒区. (2026年9月, 口頭).</span>
+    <span><a href="https://jps2026a.gakkai-web.net/data/html/programu.html#j15aE512:~:text=A.%20SuzukiD-,%E5%9C%B0%E7%90%83%E7%86%B1%E5%8F%B2%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E6%9A%97%E9%BB%92%E7%89%A9%E8%B3%AA%E5%8A%A0%E7%86%B1%E3%81%AE%E5%88%B6%E9%99%90,-%EF%BC%8815%E5%88%86%EF%BC%89" target="_blank">日本物理学会第81回年度大会</a>. 15aE512-8. 東京大学駒場キャンパス, 東京都目黒区. (2026年9月, 口頭).</span>
   </li>
 </ol>
 
