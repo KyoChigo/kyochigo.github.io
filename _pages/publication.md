@@ -6,7 +6,7 @@ comments: true
 ---
 <style>
   li {
-    margin-bottom: 3px;
+    margin-bottom: 8px;
   }
 
   .no-margin-list li {
@@ -31,7 +31,7 @@ comments: true
 <div class="col-md-8 pr-5">
 
 
-<ol>
+<ol style="font-size: 1.0em; line-height: 1.6">
   <li>
     <span><u><b>Z. Xu</b></u>, T. Araki, S. Chauhan, B. C. Crow, M. A. A. Dornfest, S. T. Dye, J. Graham, M. Hosoya, K. Inoue, J. G. Learned, V. A. Li, W. F. McDonough, T. Ohno, T. Ono, T. Sakai, J. Seligman, N. Sibert, D. Vartanyan, H. Watanabe, J. Yepez. (OBD Consortium). (2026).</span><br>
     <span><b>Towards imaging Earth’s large-scale structures by directional geoneutrino detection with Ocean Bottom Detector</b>. </span><br>
