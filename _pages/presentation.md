@@ -52,8 +52,14 @@ comments: true
     <span style="color: red">Invited talk.</span>
   </li>
   <li style="color: #bbbbbb;">
-    <u><b>Zhihao Xu</b></u>.<br>
+    <u><b>Zhihao Xu</b></u>, for KamLAND Collaboration.<br>
     <span><b>TBD. </b></span><br>
+    <span><a href="https://ifcen.sysu.edu.cn/nu-geoscience2026/" target="_blank">Neutrino Geoscience 2026</a>. Sun Yat-sen University (Zhuhai Campus), Zhuhai, China. (November 2026, oral, in preparation).</span><br>
+    <span style="color: red">Invited talk.</span>
+  </li>
+  <li style="color: #bbbbbb;">
+    <u><b>Zhihao Xu</b></u>, Misaki Hosoya, William F. McDonough, Taichi Sakai, Hiroko Watanabe.<br>
+    <span><b>Assessing the enrichment of heat-producing elements in deep-mantle structures using a directional geoneutrino detector. </b></span><br>
     <span><a href="https://ifcen.sysu.edu.cn/nu-geoscience2026/" target="_blank">Neutrino Geoscience 2026</a>. Sun Yat-sen University (Zhuhai Campus), Zhuhai, China. (November 2026, oral, in preparation).</span><br>
   </li>
   <li>
