@@ -311,7 +311,7 @@ comments: true
     <span><a href="https://jps2026a.gakkai-web.net/data/html/programu.html#j15aE512:~:text=A.%20SuzukiD-,%E5%9C%B0%E7%90%83%E7%86%B1%E5%8F%B2%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E6%9A%97%E9%BB%92%E7%89%A9%E8%B3%AA%E5%8A%A0%E7%86%B1%E3%81%AE%E5%88%B6%E9%99%90,-%EF%BC%8815%E5%88%86%EF%BC%89" target="_blank">日本物理学会第81回年度大会</a>. 15aE512-8. 東京大学駒場キャンパス, 東京都目黒区. (2026年9月, 口頭).</span>
   </li>
   <li style="color: #bbbbbb;">
-    <u><b>Misaki Hosoya</b></u>, 
+    Misaki Hosoya, 
     <details style="display: inline;">
       <summary style="color: #8888ff; cursor: pointer; text-decoration: none; display: inline;">
       for OBD Consortium.
