@@ -53,7 +53,7 @@ comments: true
   </li>
   <li style="color: #bbbbbb;">
     <u><b>Zhihao Xu</b></u>, for KamLAND Collaboration.<br>
-    <span><b>TBD. </b></span><br>
+    <span><b>Progress in KamLAND Geoneutrino Research. </b></span><br>
     <span><a href="https://ifcen.sysu.edu.cn/nu-geoscience2026/" target="_blank">Neutrino Geoscience 2026</a>. Sun Yat-sen University (Zhuhai Campus), Zhuhai, China. (November 2026, oral, in preparation).</span><br>
     <span style="color: red">Invited talk.</span>
   </li>
