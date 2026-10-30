@@ -26,9 +26,9 @@ comments: true
 </div>
 
 
-<p>I am a second year master's student from the Department of Physics, Graduation School of Science, Tohoku University.
+<p>I am a second year master's student from Tohoku University.
 As a member of the KamLAND collaboration and the OBD Consortium, my work bridges particle physics and geoscience,
-reflecting a deep interest in interdisciplinary approaches to understanding both the Earth and the fundamental nature of neutrinos.</p>
+combining neutrino physics and geoscience to better understand our planet from the inside out.</p>
 
 <p>Since I can speak Chinese (中文), Japanese (日本語), and English, please feel free to contact me in any of these languages!</p>
 
