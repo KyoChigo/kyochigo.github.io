@@ -44,14 +44,14 @@ comments: true
     <span>[<a href="https://arxiv.org/abs/2606.15680" target="_blank">arXiv:2606.15680</a>]</span>
   </li>
   <li>
-    <span>T. Araki, S. Chauhan, L. Choi, B. C. Crow, M. A. A. Dornfest, J. Graham, M. Hosoya, J. G. Learned, V. A. Li, W. F. McDonough, T. Ohno, T. Ono, T. Peters, T. Sakai, J. Seligman, N. Sibert, S.-W. Stradleigh, D. Vartanyan, H. Watanabe, <u><b>Z. Xu</b></u>, J. G. Yepez. (submitted).</span><br>
+    <span>T. Araki, S. Chauhan, L. Choi, B. C. Crow, M. A. A. Dornfest, J. Graham, M. Hosoya, J. G. Learned, V. A. Li, W. F. McDonough, T. Ohno, T. Ono, T. Peters, T. Sakai, J. Seligman, N. Sibert, S.-W. Stradleigh, D. Vartanyan, H. Watanabe, <u><b>Z. Xu</b></u>, J. G. Yepez. (accepted).</span><br>
     <span><b>Deep-ocean application-specific neutrino experiment. </b></span><br>
-    <span>[<a href="https://arxiv.org/abs/2606.20780" target="_blank">arXiv:2606.20780</a>]</span>
+    <span>Accepted by <i>Journal of Applied Physics</i>. [<a href="https://arxiv.org/abs/2606.20780" target="_blank">arXiv:2606.20780</a>]</span>
   </li>
   <li>
-    <span>D. Chernyak, et al. (KamLAND Collaboration). (submitted).</span><br>
+    <span>D. Chernyak, et al. (KamLAND Collaboration). (accepted).</span><br>
     <span><b>Search for diffuse supernova neutrino background in the full KamLAND dataset with neural-network-based event classification. </b></span><br>
-    <span>[<a href="https://arxiv.org/abs/2606.29381" target="_blank">arXiv:2606.29381</a>]</span>
+    <span>Accepted by <i>The Astrophysical Journal</i>. [<a href="https://arxiv.org/abs/2606.29381" target="_blank">arXiv:2606.29381</a>]</span>
   </li>
 </ol>
 
