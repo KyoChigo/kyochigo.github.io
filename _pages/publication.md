@@ -39,9 +39,9 @@ comments: true
     <span>Proceedings of XIX International Conference on Topics in Astroparticle and Underground Physics (TAUP 2025).</span><br>
   </li>
   <li>
-    <span>D. Chernyak, et al. (KamLAND Collaboration). (accepted).</span><br>
+    <span>D. Chernyak, et al. (KamLAND Collaboration). (2026).</span><br>
     <span><b>Search for diffuse supernova neutrino background in the full KamLAND dataset with neural-network-based event classification. </b></span><br>
-    <span>Accepted by <i>The Astrophysical Journal</i>. [<a href="https://arxiv.org/abs/2606.29381" target="_blank">arXiv:2606.29381</a>]</span>
+    <span><a href="https://iopscience.iop.org/article/10.3847/1538-4357/aeb2ea" target="_blank"><i>The Astrophysical Journal</i>. <b>1011</b>, 227</a>. [<a href="https://arxiv.org/abs/2606.29381" target="_blank">arXiv:2606.29381</a>]</span>
   </li>
   <li>
     <span>T. Araki, S. Chauhan, L. Choi, B. C. Crow, M. A. A. Dornfest, J. Graham, M. Hosoya, J. G. Learned, V. A. Li, W. F. McDonough, T. Ohno, T. Ono, T. Peters, T. Sakai, J. Seligman, N. Sibert, S.-W. Stradleigh, D. Vartanyan, H. Watanabe, <u><b>Z. Xu</b></u>, J. G. Yepez. (accepted).</span><br>
