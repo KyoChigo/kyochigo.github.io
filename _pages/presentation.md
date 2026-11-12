@@ -58,7 +58,7 @@ comments: true
   </li>
   <li>
     <u><b>Zhihao Xu</b></u>, for KamLAND Collaboration.<br>
-    <span><b>Two Decades of Geoneutrino Measurements at KamLAND. </b></span><br>
+    <span><b>Two decades of geoneutrino measurements at KamLAND. </b></span><br>
     <span><a href="https://ifcen.sysu.edu.cn/nu-geoscience2026/" target="_blank">Neutrino Geoscience 2026</a>. Sun Yat-sen University (Zhuhai Campus), Zhuhai, China. (November 2026, oral).</span><br>
     <span style="color: red">Invited talk.</span>
   </li>
