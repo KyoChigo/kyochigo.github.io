@@ -49,9 +49,9 @@ comments: true
     <span>Accepted by <i>Journal of Applied Physics</i>. [<a href="https://arxiv.org/abs/2606.20780" target="_blank">arXiv:2606.20780</a>]</span>
   </li>
   <li>
-    <span><u><b>Z. Xu</b></u>, M. Hosoya, W. F. McDonough, T. Sakai, H. Watanabe. (submitted).</span><br>
-    <span><b>Mapping deep-mantle compositional heterogeneity using a directional geoneutrino detector. </b></span><br>
-    <span>[<a href="https://arxiv.org/abs/2606.15680" target="_blank">arXiv:2606.15680</a>]</span>
+    <span><u><b>Z. Xu</b></u>, M. Hosoya, W. F. McDonough, T. Sakai, H. Watanabe. (accepted).</span><br>
+    <span><b>Assessing the enrichment of heat-producing elements in deep-mantle structures using a directional geoneutrino detector. </b></span><br>
+    <span>Accepted by <i>Earth and Planetary Science Letters</i>. [<a href="https://arxiv.org/abs/2606.15680" target="_blank">arXiv:2606.15680</a>]</span>
   </li>
 </ol>
 
