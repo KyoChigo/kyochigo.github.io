@@ -48,7 +48,7 @@ comments: true
   <li style="color: #bbbbbb;">
     <u><b>Zhihao Xu</b></u>, Misaki Hosoya, William F. McDonough, Taichi Sakai, Hiroko Watanabe.<br>
     <span><b>Mapping deep-mantle compositional heterogeneity with directional geoneutrino detection. </b></span><br>
-    <span>Geoneutrino Science: Bridging Particle Physics and Earth Sciences. Earthquake Research Institute, The University of Tokyo, Tokyo, Japan. (December 2026, oral, in preparation).</span><br>
+    <span><a href="https://eri-ndc.eri.u-tokyo.ac.jp/IWGS" target="_blank">Geoneutrino Science: Bridging Particle Physics and Earth Sciences</a>. Earthquake Research Institute, The University of Tokyo, Tokyo, Japan. (December 2026, oral, in preparation).</span><br>
     <span style="color: red">Invited talk.</span>
   </li>
   <li>
